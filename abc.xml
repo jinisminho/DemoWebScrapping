@@ -1,0 +1,7 @@
+<earphones>
+    <product>          
+        <div id="FeaturedImageZoom-product-template" class="product-single__photo product-single__photo--has-thumbnails lightbox" data-zoom="//cdn.shopify.com/s/files/1/0065/4432/6771/products/E1000_blk1_1200x1200.jpg?v=1551654670"></div>        
+        <h1 itemprop="name" class="product-single__title product_title-h1-full">Final Audio - E1000 Earphones</h1>            		
+        <span id="ProductPrice-product-template">$29.99</span>
+    </product>
+</earphones>

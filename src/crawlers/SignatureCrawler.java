@@ -63,18 +63,12 @@ public class SignatureCrawler {
                 boolean isTransformed = transformer.transform(downloadedLinksFile, finalLinksXml, linkXslt);
                 if (isTransformed) {
 //                    Validate xml
-                    System.out.println("xml: " + finalLinksXml + " | xsd: " + linkSchema);
                     validitor = new MyXMLValiditor();
                     return validitor.validateXMLWithSchema(finalLinksXml, linkSchema);
-                } else {
-                    return false;
                 }
-            } else {
-                return false;
             }
-        } else {
-            return false;
         }
+        return false;
     }
 
     private boolean crawlSignatures() {
@@ -114,8 +108,8 @@ public class SignatureCrawler {
 //        getLinks();
 //        webPageDownloader = new WebPageDownloader();
 //        webPageDownloader.writeSignature2XmlFileFromInputStream(links, "parserDemo.xml");
-        transformer = new MyXSLTransformer();
-        transformer.transform("demo.xml", "transDemo.xml", signatureXslt);
+//        transformer = new MyXSLTransformer();
+//        transformer.transform("demo.xml", "transDemo.xml", signatureXslt);
 //        validitor = new MyXMLValiditor();
 //        validitor.validateXMLWithSchema("transDemo.xml", signaturesSchema);
     }

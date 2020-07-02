@@ -11,7 +11,10 @@ package enums;
  */
 public enum SchemaEnums {
     SIGNATURE_LINKS_SCHEMA("schemas\\signatureLinksXmlSchema.xsd"),
-    SIGNATURE_SCHEMA("schemas\\signatureXmlSchema.xsd");
+    SIGNATURE_SCHEMA("schemas\\signatureXmlSchema.xsd"),
+    AUDIO46_COLLECTION_LINKS_SCHEMA("schemas\\audio46CollectionLinks.xsd"),
+    AUDIO46_PRODUCTS_SCHEMA("schemas\\audio46Products.xsd"),
+    AUDIO46_PRODUCTS_LINKS_SCHEMA("schemas\\audio46ProductsLinks.xsd");
 
     private String name;
 

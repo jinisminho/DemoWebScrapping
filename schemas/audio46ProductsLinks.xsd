@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           targetNamespace="http://xml.netbeans.org/schema/audio46ProductsLinks"
+           xmlns = "http://xml.netbeans.org/schema/audio46ProductsLinks"
+>
+    
+    <xs:element name="links" type="Links"/>
+    
+    <xs:complexType name="Links">
+        <xs:sequence>
+            <xs:element name="earphones" type="Earphones"/>
+            <xs:element name="headphones" type="Headphones"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Earphones">
+        <xs:sequence>
+            <xs:element name="link" type="Link" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Headphones">
+        <xs:sequence>
+            <xs:element name="link" type="Link" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="Link">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="500"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

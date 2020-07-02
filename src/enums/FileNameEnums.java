@@ -16,7 +16,11 @@ public enum FileNameEnums {
     DOWNLOADED_SIGNATURES_XML("xml_data\\signatures_data\\downloaded_signatures.xml"),
     FINAL_SIGNATURES_XML("xml_data\\signatures_data\\final_signatures.xml"),
 //    PRODUCTS
-    DOWNLOADED_PRODUCTS_AUDIO46_XML("xml_data\\products_data\\products_audio46.xml"),
+    DOWNLOADED_COLLECTIONS_LINK_AUDIO46_XML("xml_data\\products_data\\downloaded_collections_audio46.xml"),
+    FINAL_COLLECTIONS_LINK_AUDIO46_XML("xml_data\\products_data\\final_collections_audio46.xml"),
+    DOWNLOADED_PRODUCTS_LINKS_AUDIO46_XML("xml_data\\products_data\\downloaded_products_links_audio46.xml"),
+    FINAL_PRODUCTS_LINKS_AUDIO46_XML("xml_data\\products_data\\final_products_links_audio46.xml"),
+    DOWNLOADED_PRODUCTS_AUDIO46_XML("xml_data\\products_data\\downloaded_products_audio46.xml"),
     FINAL_PRODUCTS_AUDIO46_XML("xml_data\\products_data\\final_products_audio46.xml");
 
     private String name;

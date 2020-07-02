@@ -21,7 +21,6 @@
                     <xsl:value-of select="a/@href" />
                 </link>
             </xsl:for-each>
-            
         </links>
     </xsl:template>
 

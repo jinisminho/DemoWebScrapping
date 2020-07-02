@@ -11,6 +11,9 @@ package enums;
  */
 public enum XsltFileEnums {
     SIGNATURE_LINKS_XSLT("xslt\\signatureLinksTransformer.xsl"),
+    AUDIO46_COLLECTION_LINKS_XSLT("xslt\\collectionsLink.xsl"),
+    AUDIO46_PRODUCTS_LINKS_XSLT("xslt\\audio46ProductsLinks.xsl"),
+    AUDIO46_PRODUCTS_XSLT("xslt\\audio46Products.xsl"),
     SIGNATURE_XSLT("xslt\\signaturesTransformer.xsl"),
     FAILED("Update to database failed");
 

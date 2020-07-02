@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           targetNamespace="http://xml.netbeans.org/schema/audio46/products"
+           xmlns = "http://xml.netbeans.org/schema/audio46/products"
+>
+    
+    <xs:element name="products" type="Products"/>
+    
+    <xs:complexType name="Products">
+        <xs:sequence>
+            <xs:element name="earphones" type="Earphones"/>
+            <xs:element name="headphones" type="Headphones"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Earphones">
+        <xs:sequence>
+            <xs:element name="product" type="Product" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Headphones">
+        <xs:sequence>
+            <xs:element name="product" type="Product" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Product">
+        <xs:sequence>
+            <xs:element name="name" type="Name"/>
+            <xs:element name="price" type="Price"/>
+            <xs:element name="image" type="Image"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="Name">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="200"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Price">
+        <xs:restriction base="xs:float">
+            <xs:minInclusive value="0"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Image">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="500"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

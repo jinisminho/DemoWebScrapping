@@ -10,8 +10,8 @@ package enums;
  * @author Hoang Pham
  */
 public enum UrlEnums {
-    CRINACLE_RANKINGS("https://crinacle.com/rankings/"),
-    AUDIO46("https://audio46.com/"),
+    CRINACLE_RANKINGS("https://crinacle.com/rankings"),
+    AUDIO46("https://audio46.com"),
     FAILED("Update to database failed");
 
     private String url;
