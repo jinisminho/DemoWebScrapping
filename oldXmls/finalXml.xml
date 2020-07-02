@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8"?><signatures xmlns="http://xml.netbeans.org/schema/signatures">
+    <signature>
+        <no>1</no>
+        <name/>
+        <model/>
+        <description/>
+    </signature>
+    <signature>
+        <no>2</no>
+        <name>Mild U-shape</name>
+        <model>64 Audio A/U12t</model>
+        <description>Amazing bass (for a BA), top-tier resolution and detail-oriented signature.</description>
+    </signature>
+    <signature>
+        <no>3</no>
+        <name>Neutral</name>
+        <model>qdc 8SL</model>
+        <description>Reference tuning with good tonality and top-level resolution. Similar tunings across top tier models.</description>
+    </signature>
+    <signature>
+        <no>4</no>
+        <name>Mild V-shape</name>
+        <model>Sony IER-Z1R</model>
+        <description>Highly defined sound, realistic sub-bass focus and spacious imaging capabilities.</description>
+    </signature>
+    <signature>
+        <no>5</no>
+        <name>Warm neutral</name>
+        <model>Vision Ears VE8</model>
+        <description>Extremely coherent signature with a pleasing tuning and high technicalities.</description>
+    </signature>
+    <signature>
+        <no>6</no>
+        <name>Neutral with bass boost</name>
+        <model>64 Audio Tia Trio</model>
+        <description>A more correct sounding version of the Fourte with slight cutbacks in staging and sheer resolution.</description>
+    </signature>
+    <signature>
+        <no>7</no>
+        <name>Variable</name>
+        <model>Hidition Viento</model>
+        <description>Best-in-class tuning and tonal balance with near-perfect coherency.</description>
+    </signature>
+    <signature>
+        <no>8</no>
+        <name>Neutral</name>
+        <model>InEar Prophile-8</model>
+        <description>Very "studio" like sound, heavy priority on technicalities</description>
+    </signature>
+    <signature>
+        <no>9</no>
+        <name>Warm neutral</name>
+        <model>Sony IER-M9</model>
+        <description>Neutral tonality, highly coherent and decent detail pickup.</description>
+    </signature>
+    <signature>
+        <no>10</no>
+        <name>Neutral with bass boost</name>
+        <model>Unique Melody Legacy</model>
+        <description>Beautifully tuned yet highly technically proficient</description>
+    </signature>
+    <signature>
+        <no>11</no>
+        <name>Variable</name>
+        <model>Vision Ears Erlkonig</model>
+        <description>Good tonality, high resolution and an overall decent all-rounder.</description>
+    </signature>
+    <signature>
+        <no>12</no>
+        <name>Warm neutral</name>
+        <model>64 Audio A/U18 Tzar</model>
+        <description>A rather simple and "mainstream" tuning refined to an extremely high level.</description>
+    </signature>
+    <signature>
+        <no>13</no>
+        <name>Harman-neutral</name>
+        <model>Audeze iSine 20 (Cipher V1)</model>
+        <description>DSP corrects the glaring tonality issues and brings out the iSine driver's full potential.</description>
+    </signature>
+    <signature>
+        <no>14</no>
+        <name>Warm U-shape</name>
+        <model>Campfire Andromeda</model>
+        <description>Highly coherent, easy-to-love tuning and spacious headstage</description>
+    </signature>
+    <signature>
+        <no>15</no>
+        <name>V-shaped</name>
+        <model>Empire Ears Legend X</model>
+        <description>High resolution hybrid flawed only by lack of control in the bass regions.</description>
+    </signature>
+    <signature>
+        <no>16</no>
+        <name>DF-neutral</name>
+        <model>Hidition NT6</model>
+        <description>If Etymotic made a multi-BA IEM, this would be the closest to that dream</description>
+    </signature>
+    <signature>
+        <no>17</no>
+        <name>V-shaped</name>
+        <model>Jomo Trinity SS</model>
+        <description>Highly detailed, well separated imaging though severely lacking in treble extension.</description>
+    </signature>
+    <signature>
+        <no>18</no>
+        <name>Warm neutral</name>
+        <model>Jomo Flamenco</model>
+        <description>Tuned to be more pleasing and tonally accurate compared to the old Flamenco at the cost of sheer detail.</description>
+    </signature>
+    <signature>
+        <no>19</no>
+        <name>V-shaped</name>
+        <model>Jomo Samba</model>
+        <description>Lively and engaging with big clarity and detail, perhaps too much for some</description>
+    </signature>
+    <signature>
+        <no>20</no>
+        <name>Neutral</name>
+        <model>Kumitate KL-Sirius</model>
+        <description>Excellent technical ability, well tuned with a dash of Japanese flavour.</description>
+    </signature>
+    <signature>
+        <no>21</no>
+        <name>Harman-neutral</name>
+        <model>Moondrop S8</model>
+        <description>More faithful to the Harman target compared to the A8, with a smoother bass response.</description>
+    </signature>
+    <signature>
+        <no>22</no>
+        <name>Neutral</name>
+        <model>PEARS SH3</model>
+        <description>Great detail pickup and solid all-rounder, perhaps a little strident.</description>
+    </signature>
+    <signature>
+        <no>23</no>
+        <name>Neutral</name>
+        <model>Ultimate Ears Reference Monitor (UERM)</model>
+        <description>The benchmark of an era, dead-flat with an upper treble boost</description>
+    </signature>
+    <signature>
+        <no>24</no>
+        <name>Warm neutral</name>
+        <model>Ultimate Ears UE18+ Pro Gen 2</model>
+        <description>Somewhat reference tuning with emphasis on tonal accuracy and naturalness</description>
+    </signature>
+    <signature>
+        <no>25</no>
+        <name>Mild V-shape</name>
+        <model>Vision Ears Elysium</model>
+        <description>First decent implementation of Sonion's EST tweeters.</description>
+    </signature>
+    <signature>
+        <no>26</no>
+        <name>Variable</name>
+        <model>Elysian Hades V2</model>
+        <description>Upper-mid forward signature with intense upper treble response.</description>
+    </signature>
+    <signature>
+        <no>27</no>
+        <name>V-shaped</name>
+        <model>Elysian Terminator V2</model>
+        <description>A more intense, upper-mid forward Terminator V1 with the same level of technical ability.</description>
+    </signature>
+    <signature>
+        <no>28</no>
+        <name>V-shaped</name>
+        <model>S8F</model>
+        <description>Tonally pleasing V-shaped signature on a solid technical foundation.</description>
+    </signature>
+    <signature>
+        <no>29</no>
+        <name>Warm neutral</name>
+        <model>FitEar MH334SR</model>
+        <description>A MH334 with more treble extension and more opened imaging.</description>
+    </signature>
+    <signature>
+        <no>30</no>
+        <name>Warm neutral</name>
+        <model>FiR M3</model>
+        <description>Interesting tubeless technology, though the imaging improvements are minimal.</description>
+    </signature>
+    <signature>
+        <no>31</no>
+        <name>Warm neutral</name>
+        <model>FiR M4</model>
+        <description>Too similar to the M3 to be worth the price markup.</description>
+    </signature>
+    <signature>
+        <no>32</no>
+        <name>Neutral</name>
+        <model>Hidition NT8</model>
+        <description>Coloured neutral kind of sound that works better with Asian genres.</description>
+    </signature>
+    <signature>
+        <no>33</no>
+        <name>Harman-neutral</name>
+        <model>Hidition Waltz</model>
+        <description>Neutral-fun signature that works both as a reference monitor and a rock-out IEM.</description>
+    </signature>
+    <signature>
+        <no>34</no>
+        <name>Warm</name>
+        <model/>
+        <description>Rich and smooth, perfect for male vocals</description>
+    </signature>
+    <signature>
+        <no>35</no>
+        <name>Warm</name>
+        <model>Jomo Trinity Brass</model>
+        <description>The warmer of the Trinity models, sacrificing technical ability for a more pleasing and smoother tone.</description>
+    </signature>
+    <signature>
+        <no>36</no>
+        <name>Variable</name>
+        <model>Lime Ears Model X</model>
+        <description>Technically capable IEM that goes from decently neutral to warm and smooth in a pinch.</description>
+    </signature>
+    <signature>
+        <no>37</no>
+        <name>Neutral with bass boost</name>
+        <model>Lime Ears Aether</model>
+        <description>Excellent clarity and tone but marred slightly by slightly lackluster resolution</description>
+    </signature>
+    <signature>
+        <no>38</no>
+        <name>Harman-neutral</name>
+        <model>Moondrop A8</model>
+        <description>An odd but surprisingly decent take on the Harman signature, with added midbass compared to the S8.</description>
+    </signature>
+    <signature>
+        <no>39</no>
+        <name>Warm DF-neutral</name>
+        <model>Moondrop Solis</model>
+        <description>A good implementation of the EST drivers with Moondrop's signature tuning specialties.</description>
+    </signature>
+    <signature>
+        <no>40</no>
+        <name>Neutral with bass boost</name>
+        <model>Massdrop x Noble K10</model>
+        <description>Very safe tuning, almost to the point of boredom. Does nothing wrong but nothing right either</description>
+    </signature>
+    <signature>
+        <no>41</no>
+        <name>Neutral</name>
+        <model>Noble K10 Encore</model>
+        <description>Reference oriented sound focused on technicalities</description>
+    </signature>
+    <signature>
+        <no>42</no>
+        <name>Neutral with laid-back treble</name>
+        <model>Noble Katana</model>
+        <description>Like the K10, except with less bass</description>
+    </signature>
+    <signature>
+        <no>43</no>
+        <name>Warm</name>
+        <model>Oriolus MK2</model>
+        <description>Lively yet non-fatiguing hybrid experience</description>
+    </signature>
+    <signature>
+        <no>44</no>
+        <name>Neutral</name>
+        <model>qdc 4SS</model>
+        <description>High clarity, high resolution reference-type monitor with spot-on tone.</description>
+    </signature>
+    <signature>
+        <no>45</no>
+        <name>V-shaped</name>
+        <model>qdc 5SH</model>
+        <description>Fun, lively signature that retains high levels of performance.</description>
+    </signature>
+    <signature>
+        <no>46</no>
+        <name>Bright DF-neutral</name>
+        <model>Sony MDR-EX1000</model>
+        <description>Outstanding imaging and detail retrieval though can be intense to listen to.</description>
+    </signature>
+    <signature>
+        <no>47</no>
+        <name>Warm neutral</name>
+        <model>Sony IER-M7</model>
+        <description>Balanced across the board, though doesn't seem to excel in any particular area.</description>
+    </signature>
+    <signature>
+        <no>48</no>
+        <name>Neutral with bass boost</name>
+        <model>Stealthsonics U9 JDM</model>
+        <description>Does away with the timbre issues of the standard U9.</description>
+    </signature>
+    <signature>
+        <no>49</no>
+        <name>Bright DF-neutral</name>
+        <model>StereoPravada SB7</model>
+        <description>Technically proficient but marred by a sharp timbre. Interesting concept.</description>
+    </signature>
+    <signature>
+        <no>50</no>
+        <name>Neutral with laid-back treble</name>
+        <model>Ultimate Ears Reference Remastered (UERR)</model>
+        <description>Warm with good tonality. Good all-rounder albeit definitely not a reference signature.</description>
+    </signature>
+    <signature>
+        <no>51</no>
+        <name>Neutral with laid-back treble</name>
+        <model/>
+        <description>Great timbre and well-tuned, held back by its resolution</description>
+    </signature>
+    <signature>
+        <no>52</no>
+        <name>V-shaped</name>
+        <model>Acoustune HS1650</model>
+        <description>Well textured and energetic with a sub-bass focus.</description>
+    </signature>
+    <signature>
+        <no>53</no>
+        <name>V-shaped</name>
+        <model>Dita Dream</model>
+        <description>Excellent resolution and detail let down by its metallic tonality and thin midrange</description>
+    </signature>
+    <signature>
+        <no>54</no>
+        <name>Neutral</name>
+        <model>Drop + JVC HA-FDX1</model>
+        <description>Highly technical sound with a clean, well-tuned neutral signature.</description>
+    </signature>
+    <signature>
+        <no>55</no>
+        <name>Neutral with bass boost</name>
+        <model>Elysian Poseidon</model>
+        <description>Good, inoffensive midrange tone and bass tuning, marred by the lack of low-level detailing.</description>
+    </signature>
+    <signature>
+        <no>56</no>
+        <name>DF-neutral</name>
+        <model>Etymotic ER4XR</model>
+        <description>A more mainstream tuning of the ER4S/SR with slightly boosted bass.</description>
+    </signature>
+    <signature>
+        <no>57</no>
+        <name>Warm</name>
+        <model>FiR M5</model>
+        <description>Warmer than the M3 and M4 with lower resolution.</description>
+    </signature>
+    <signature>
+        <no>58</no>
+        <name>Neutral with bass boost</name>
+        <model>Hidition NT6 Pro</model>
+        <description>A V-shaped version of the NT6. The change in tuning kills the technical ability slightly</description>
+    </signature>
+    <signature>
+        <no>59</no>
+        <name>V-shaped</name>
+        <model>HYLA CE-5</model>
+        <description>Probably the best bass response I've ever heard. Thin-ish midrange that sounds unnatural on certain instruments.</description>
+    </signature>
+    <signature>
+        <no>60</no>
+        <name>V-shaped</name>
+        <model>HYLA TE-5B</model>
+        <description>Similar to the CE-5 though ever-so-slightly thinner in the midrange.</description>
+    </signature>
+    <signature>
+        <no>61</no>
+        <name>Warm V-shape</name>
+        <model>InEar SD5</model>
+        <description>Excels in timbre reproduction and has an overall pleasant signature.</description>
+    </signature>
+    <signature>
+        <no>62</no>
+        <name>Harman-neutral</name>
+        <model>Moondrop Blessing</model>
+        <description>All rounder that comes the closest to the Harman Target.</description>
+    </signature>
+    <signature>
+        <no>63</no>
+        <name>Neutral</name>
+        <model>NocturnaL Atlantis</model>
+        <description>Reference signature with immense clarity and energy.</description>
+    </signature>
+    <signature>
+        <no>64</no>
+        <name>Bright U-shape</name>
+        <model>Shure KSE1200</model>
+        <description>Easily at the top in terms of resolution and definition, but comes with a big treble spike and slightly odd mids.</description>
+    </signature>
+    <signature>
+        <no>65</no>
+        <name>Bright neutral</name>
+        <model>Sony MDR-EX800ST</model>
+        <description>A more forgiving, warmer version of the EX1000.</description>
+    </signature>
+    <signature>
+        <no>66</no>
+        <name>Warm DF-neutral</name>
+        <model>Sony Justear XJE-MH2 "Club"</model>
+        <description>Nice, pleasant signature that is reminiscent of a more textured HS1551.</description>
+    </signature>
+    <signature>
+        <no>67</no>
+        <name>Bright neutral</name>
+        <model>Unique Melody Mason V3+</model>
+        <description>Decent resolution, nothing really special otherwise.</description>
+    </signature>
+    <signature>
+        <no>68</no>
+        <name>Bassy</name>
+        <model>64 Audio N8</model>
+        <description>Sub-bass focus, rich and smooth yet relatively neutral in tone.</description>
+    </signature>
+    <signature>
+        <no>69</no>
+        <name>W-shaped</name>
+        <model>64 Audio tia Fourte</model>
+        <description>Unique sound; high clarity and bass response with immensely wide staging, held back by a wonky tonality.</description>
+    </signature>
+    <signature>
+        <no>70</no>
+        <name>Neutral with bass boost</name>
+        <model>A&amp;K T8iE</model>
+        <description>Hard-to-dislike tuning with excellent clarity and resolution</description>
+    </signature>
+    <signature>
+        <no>71</no>
+        <name>Warm neutral</name>
+        <model>AAW ASH</model>
+        <description>Smooth tonal balance with decent technicalities.</description>
+    </signature>
+    <signature>
+        <no>72</no>
+        <name>Warm V-shape</name>
+        <model>Acoustune HS1551</model>
+        <description>Warm and smooth tonality with a pleasing tuning not many would hate.</description>
+    </signature>
+    <signature>
+        <no>73</no>
+        <name>V-shaped</name>
+        <model>Beyerdynamic Xelento</model>
+        <description>Like the T8iE, with a little more treble</description>
+    </signature>
+    <signature>
+        <no>74</no>
+        <name>"Balanced"</name>
+        <model>Campfire Solaris</model>
+        <description>Coherent and well balanced hybrid though with slight midrange hollowness.</description>
+    </signature>
+    <signature>
+        <no>75</no>
+        <name>Warm</name>
+        <model>Custom Art Harmony 8.2</model>
+        <description>Smooth and easy signature. No fatigue whatsoever. The definition of a lounging IEM.</description>
+    </signature>
+    <signature>
+        <no>76</no>
+        <name>Warm neutral</name>
+        <model>DUNU DK-3001 Pro</model>
+        <description>Well-tuned and coherent. Does little wrong and very easy to like.</description>
+    </signature>
+    <signature>
+        <no>77</no>
+        <name>Warm neutral</name>
+        <model>Etymotic ER4PT</model>
+        <description>Slightly rolled off treble with good detail and resolution, though imaging is too two-dimensional.</description>
+    </signature>
+    <signature>
+        <no>78</no>
+        <name>Warm V-shape</name>
+        <model>Elysian Terminator</model>
+        <description>Well rounded smooth signature that doesn't offend.</description>
+    </signature>
+    <signature>
+        <no>79</no>
+        <name>Neutral</name>
+        <model>Elysian Artemis V2</model>
+        <description>A detailed, somewhat neutral-sounding IEM that should fit most people's tastes.</description>
+    </signature>
+    <signature>
+        <no>80</no>
+        <name>Neutral</name>
+        <model>Empire Ears EVR</model>
+        <description>A nicely tuned flat-ish signature with good technical ability all around.</description>
+    </signature>
+    <signature>
+        <no>81</no>
+        <name>V-shaped</name>
+        <model>Empire Ears Vantage</model>
+        <description>A Legend-X-mini, essentially. Nice alternative on a "budget".</description>
+    </signature>
+    <signature>
+        <no>82</no>
+        <name>DF-neutral</name>
+        <model>Etymotic ER2SE/ER2XR</model>
+        <description>Slightly less detailed than the ER4, but without the usual BA timbre.</description>
+    </signature>
+    <signature>
+        <no>83</no>
+        <name>DF-neutral</name>
+        <model>Fearless S6Pro</model>
+        <description>Technical tuning with very forward detailing.</description>
+    </signature>
+    <signature>
+        <no>84</no>
+        <name>Warm</name>
+        <model>FitEar MH334</model>
+        <description>Perfect for female vocals, but otherwise quite coloured</description>
+    </signature>
+    <signature>
+        <no>85</no>
+        <name>Dark</name>
+        <model>FitEar TG334</model>
+        <description>Like the MH334 with quite a bit less treble</description>
+    </signature>
+    <signature>
+        <no>86</no>
+        <name>DF-neutral</name>
+        <model>HUM Reference</model>
+        <description>Basically sounds like a shallow-fit ER4S.</description>
+    </signature>
+    <signature>
+        <no>87</no>
+        <name>U-shaped</name>
+        <model>iBasso IT04</model>
+        <description>A nice improvement over the IT03 though midrange hollowness still exists.</description>
+    </signature>
+    <signature>
+        <no>88</no>
+        <name>V-shaped</name>
+        <model>Jomo Quatre</model>
+        <description>Nicely tuned hybrid that serves as a good all-rounder.</description>
+    </signature>
+    <signature>
+        <no>89</no>
+        <name>DF-neutral with bass boost</name>
+        <model>Massdrop Plus</model>
+        <description>Reference-targeted sound with excellent clarity and detail, with a slightly more fun tuning.</description>
+    </signature>
+    <signature>
+        <no>90</no>
+        <name>U-shaped</name>
+        <model>Noble Khan</model>
+        <description>Clean yet lean, solid low-end rumble but treble get splashy. Technical but lacking naturalness for top performance.</description>
+    </signature>
+    <signature>
+        <no>91</no>
+        <name>Mild V-shape</name>
+        <model>Oriolus Mellianus</model>
+        <description>Thin and sterile signature that isn't the most natural, but still technically proficient.</description>
+    </signature>
+    <signature>
+        <no>92</no>
+        <name>Mild V-shape</name>
+        <model>Sennheiser IE800</model>
+        <description>Good bass with shimmery treble. Decent tonality.</description>
+    </signature>
+    <signature>
+        <no>93</no>
+        <name>Neutral with bass boost</name>
+        <model>Sony XBA-N3</model>
+        <description>Exceptional tonal balance only limited by its slightly smoothed over definition</description>
+    </signature>
+    <signature>
+        <no>94</no>
+        <name>Warm</name>
+        <model/>
+        <description>Clearly inspired by the 334, follows the same strengths in female vocals</description>
+    </signature>
+    <signature>
+        <no>95</no>
+        <name>Harman-neutral</name>
+        <model>Tanchjim Oxygen</model>
+        <description>One of the best-tuned DDs tuned somewhat to Harman. Defined and detailed.</description>
+    </signature>
+    <signature>
+        <no>96</no>
+        <name>"Balanced"</name>
+        <model>Unique Melody Maestro V2</model>
+        <description>It's... there. Hard to find words for this one</description>
+    </signature>
+    <signature>
+        <no>97</no>
+        <name>Neutral with bass boost</name>
+        <model>Unique Melody Martian</model>
+        <description>Well-tuned hybrid with excellent bass response and smooth midrange.</description>
+    </signature>
+    <signature>
+        <no>98</no>
+        <name>W-shaped</name>
+        <model>64 Audio tia Fourte Noir</model>
+        <description>A bassier and warmer Fourte though also strangely sharper and less technical.</description>
+    </signature>
+    <signature>
+        <no>99</no>
+        <name>Bright neutral</name>
+        <model>AAW AXH (2019)</model>
+        <description>Sharp treble though not to the point of being piercing. Decent rendition of the bright-neutral signature.</description>
+    </signature>
+    <signature>
+        <no>100</no>
+        <name>Neutral</name>
+        <model>AAW Mockingbird</model>
+        <description>A "nothing special" kind of sound that is neither wrong nor exciting, even on a technical level.</description>
+    </signature>
+    <signature>
+        <no>101</no>
+        <name>V-shaped</name>
+        <model>AAW Canary</model>
+        <description>Poor implementation of the EST driver. Decent in tonality and timbre, but that's about it.</description>
+    </signature>
+    <signature>
+        <no>102</no>
+        <name>Warm V-shape</name>
+        <model>Acoustune HS1501</model>
+        <description>A more textured, bassier and more energetic version of the HS1551.</description>
+    </signature>
+    <signature>
+        <no>103</no>
+        <name>V-shaped</name>
+        <model>Acoustune HS1670</model>
+        <description>Metallic and shrill timbre makes this hard to enjoy.</description>
+    </signature>
+    <signature>
+        <no>104</no>
+        <name>Neutral</name>
+        <model/>
+        <description>Good all-rounder. No slouch in the technicalities.</description>
+    </signature>
+    <signature>
+        <no>105</no>
+        <name>Neutral with bass boost</name>
+        <model>AKG N5005</model>
+        <description>Amazing bass control only let down by plastic timbre.</description>
+    </signature>
+    <signature>
+        <no>106</no>
+        <name>Neutral</name>
+        <model>ARC Mira</model>
+        <description>A well-tuned basic setup with strengths in versatility.</description>
+    </signature>
+    <signature>
+        <no>107</no>
+        <name>Neutral with bass boost</name>
+        <model>Audio Technica ATH-E70</model>
+        <description>Clean and clear sound with a slight warm tilt without losing treble sparkle.</description>
+    </signature>
+    <signature>
+        <no>108</no>
+        <name>Bassy</name>
+        <model>Campfire Atlas</model>
+        <description>Gobs of bass with added treble sparkle that prevents complete congestion and muddiness.</description>
+    </signature>
+    <signature>
+        <no>109</no>
+        <name>Warm V-shape</name>
+        <model>Dita Truth Brass</model>
+        <description>Very nice tonal characteristics with good bass, though nothing special technically.</description>
+    </signature>
+    <signature>
+        <no>110</no>
+        <name>Neutral</name>
+        <model>Dita Dream XLS</model>
+        <description>Standard Dita house sound with a non-standard bass roll-off. Decent, not amazing.</description>
+    </signature>
+    <signature>
+        <no>111</no>
+        <name>V-shaped</name>
+        <model>Dita Fidelity</model>
+        <description>The more technical and less natural sounding of the Dita twins.</description>
+    </signature>
+    <signature>
+        <no>112</no>
+        <name>Mild V-shape</name>
+        <model>Dita Fealty</model>
+        <description>The more natural sounding and less technical of the Dita twins.</description>
+    </signature>
+    <signature>
+        <no>113</no>
+        <name>U-shaped</name>
+        <model>DUNU DK-4001</model>
+        <description>A little shrill with slight cutbacks in tone compared to the DK-3001 Pro.</description>
+    </signature>
+    <signature>
+        <no>114</no>
+        <name>Bright V-shape</name>
+        <model>Empire Ears ESR</model>
+        <description>Has the technical chops but is sharp and fatiguing.</description>
+    </signature>
+    <signature>
+        <no>115</no>
+        <name>V-shaped</name>
+        <model>Empire Ears Bravado</model>
+        <description>A basic hybrid sound with big bass and energetic treble.</description>
+    </signature>
+    <signature>
+        <no>116</no>
+        <name>V-shaped</name>
+        <model>Empire Ears Nemesis</model>
+        <description>A lot more treble compared to the Vantage.</description>
+    </signature>
+    <signature>
+        <no>117</no>
+        <name>Warm</name>
+        <model>Empire Ears Phantom</model>
+        <description>Heavy, rich and decadent, great for male vocals and bassy instruments.</description>
+    </signature>
+    <signature>
+        <no>118</no>
+        <name>Extreme V-shape</name>
+        <model>Empire Ears Valkyrie</model>
+        <description>Lots of sub-bass with extremely thin mids. Adequate technicalities.</description>
+    </signature>
+    <signature>
+        <no>119</no>
+        <name>Bright neutral</name>
+        <model>Empire Ears Zeus-XIV</model>
+        <description>Top tier detail and resolution with poor tone and timbre reproduction.</description>
+    </signature>
+    <signature>
+        <no>120</no>
+        <name>V-shaped</name>
+        <model>Fearless S4</model>
+        <description>Tonally accurate though can be a little heavy with its upper midrange.</description>
+    </signature>
+    <signature>
+        <no>121</no>
+        <name>V-shaped</name>
+        <model>Fearless S5H</model>
+        <description>Similar if not identical to the S4, though with a little less upper mids.</description>
+    </signature>
+    <signature>
+        <no>122</no>
+        <name>V-shaped</name>
+        <model>Fearless S6Rui</model>
+        <description>Similar to the S4/S5H though with smoother upper mids and treble response.</description>
+    </signature>
+    <signature>
+        <no>123</no>
+        <name>Neutral</name>
+        <model>Fearless La Hire</model>
+        <description>Well-tuned neutral-style monitor with subpar treble extension.</description>
+    </signature>
+    <signature>
+        <no>124</no>
+        <name>Mid-centric</name>
+        <model>Fidue A91 "Sirius"</model>
+        <description>Uniquely tuned hybrid. Not very powerful DD bass with Diffuse-Field midrange.</description>
+    </signature>
+    <signature>
+        <no>125</no>
+        <name>Neutral with bass boost</name>
+        <model>FiiO FH5</model>
+        <description>Stellar bass response and decent technical ability, not much to fault.</description>
+    </signature>
+    <signature>
+        <no>126</no>
+        <name>Warm neutral</name>
+        <model>FitEar F/A111</model>
+        <description>A laid-back take on reference with Suyama's FitEar colouration mixed in</description>
+    </signature>
+    <signature>
+        <no>127</no>
+        <name>Warm</name>
+        <model>FitEar Parterre</model>
+        <description>Intimate, smooth and laidback sound</description>
+    </signature>
+    <signature>
+        <no>128</no>
+        <name>Warm</name>
+        <model>FitEar EST</model>
+        <description>Smooth and relaxing listen, though definition is not its strong suit.</description>
+    </signature>
+    <signature>
+        <no>129</no>
+        <name>Variable</name>
+        <model/>
+        <description>Very good technicalities with a well-tuned signature. Filters change the sound a lot.</description>
+    </signature>
+    <signature>
+        <no>130</no>
+        <name>Warm</name>
+        <model>HUM Pristine Reference</model>
+        <description>Good detail pickup and generally inoffensive. Much better than the universal.</description>
+    </signature>
+    <signature>
+        <no>131</no>
+        <name>Upper mid focused</name>
+        <model>HYLA TE-5T</model>
+        <description>Very Japanese-sounding with a massive upper harmonic focus, too much for many genres.</description>
+    </signature>
+    <signature>
+        <no>132</no>
+        <name>V-shaped</name>
+        <model>JH Audio JH13v2 Performance Series</model>
+        <description>Good all rounder, slightly warmer and more coherent than the custom version</description>
+    </signature>
+    <signature>
+        <no>133</no>
+        <name>Harman-neutral</name>
+        <model>Moondrop KXXS</model>
+        <description>Well-tuned single DD with proper timbre and decent technicalities.</description>
+    </signature>
+    <signature>
+        <no>134</no>
+        <name>Harman-neutral</name>
+        <model>Moondrop Starfield</model>
+        <description>A cheaper KXXS.</description>
+    </signature>
+    <signature>
+        <no>135</no>
+        <name>U-shaped</name>
+        <model>NCM Bella</model>
+        <description>Powerful bass combined with clean sounding mids, though perhaps a tad aggressive at times.</description>
+    </signature>
+    <signature>
+        <no>136</no>
+        <name>U-shaped</name>
+        <model>Noble Tux 5</model>
+        <description>Deep, sub-bass focus with potentially sibilant treble. Scooped midrange.</description>
+    </signature>
+    <signature>
+        <no>137</no>
+        <name>Mild V-shape</name>
+        <model>Periodic Audio Be</model>
+        <description>Meaty with decent sparkle in the treble, whilst remaining clear and clean.</description>
+    </signature>
+    <signature>
+        <no>138</no>
+        <name>Variable</name>
+        <model>qdc Anole V3</model>
+        <description>The bassier of the Anole brothers. Better timbre but worse technicalities.</description>
+    </signature>
+    <signature>
+        <no>139</no>
+        <name>Variable</name>
+        <model>qdc Anole V6</model>
+        <description>The more mid-centric of the Anole brothers. Better technicalities but worse timbre.</description>
+    </signature>
+    <signature>
+        <no>140</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>Lively and engaging but avoiding fatigue still. Rare combo</description>
+    </signature>
+    <signature>
+        <no>141</no>
+        <name>Harman-neutral</name>
+        <model>Samsung Galaxy Buds</model>
+        <description>A surprisingly well-tuned TWS with the technical chops to boot.</description>
+    </signature>
+    <signature>
+        <no>142</no>
+        <name>Harman-neutral</name>
+        <model>Samsung Galaxy Buds+</model>
+        <description>Tuned even closer to the Harman IE target compared to the original.</description>
+    </signature>
+    <signature>
+        <no>143</no>
+        <name>V-shaped</name>
+        <model>Sennheiser IE400 Pro</model>
+        <description>Heavy bass boost balanced out by good treble energy along with decent midrange tonality.</description>
+    </signature>
+    <signature>
+        <no>144</no>
+        <name>Bright neutral</name>
+        <model>Shozy &amp; Neo BG</model>
+        <description>Well balanced tuning with decent resolution, though suffers from slight timbral issues.</description>
+    </signature>
+    <signature>
+        <no>145</no>
+        <name>Neutral with bass boost</name>
+        <model>Shure SE846</model>
+        <description>Deep reaching bass but with an odd tonality in the rest of the spectrum.</description>
+    </signature>
+    <signature>
+        <no>146</no>
+        <name>Neutral with bass boost</name>
+        <model>Sony WF-1000XM3</model>
+        <description>Proper tonality, solid technicalities yet with a consumer-friendly signature.</description>
+    </signature>
+    <signature>
+        <no>147</no>
+        <name>Neutral with bass boost</name>
+        <model>Sony XBA-A3</model>
+        <description>Coherent hybrid with a warm-ish tilt to its tone.</description>
+    </signature>
+    <signature>
+        <no>148</no>
+        <name>"Balanced"</name>
+        <model>Sony XBA-Z5</model>
+        <description>All-rounder. Somewhat neutral both in FR and tonality.</description>
+    </signature>
+    <signature>
+        <no>149</no>
+        <name>"Balanced"</name>
+        <model>Ultimate Ears UE18+ Pro Gen 3</model>
+        <description>Perceived more neutrally compared to the Gen 2; less emotional, more boring.</description>
+    </signature>
+    <signature>
+        <no>150</no>
+        <name>Warm neutral</name>
+        <model>Vision Ears VE3.2</model>
+        <description>Almost VE8-like in tonality, but lacks its technical abilities.</description>
+    </signature>
+    <signature>
+        <no>151</no>
+        <name>Neutral</name>
+        <model/>
+        <description>Jack of all trades. Has all the fundamentals down to a T.</description>
+    </signature>
+    <signature>
+        <no>152</no>
+        <name>Neutral</name>
+        <model>Apple AirPods Pro</model>
+        <description>Somewhat Diffuse-Field tuning with a smooth and natural midrange tonality.</description>
+    </signature>
+    <signature>
+        <no>153</no>
+        <name>Neutral</name>
+        <model>ARC Pollux</model>
+        <description>Well-tuned neutral single-BA IEM.</description>
+    </signature>
+    <signature>
+        <no>154</no>
+        <name>Warm</name>
+        <model>ARC Oculus</model>
+        <description>Relaxing, warm signature with sub-par resolving ability.</description>
+    </signature>
+    <signature>
+        <no>155</no>
+        <name>Warm neutral</name>
+        <model>Audio Technica ATH-IM02</model>
+        <description>Well-balanced, excellent tuning and good technical ability.</description>
+    </signature>
+    <signature>
+        <no>156</no>
+        <name>Neutral</name>
+        <model>Audio Technica ATH-LS200</model>
+        <description>Somewhat Diffuse-Field neutral with its own quirks. Good technical ability.</description>
+    </signature>
+    <signature>
+        <no>157</no>
+        <name>Neutral</name>
+        <model>Bose SoundSport Free</model>
+        <description>Solid tonal balance with wide soundstage, though not the best in detailing.</description>
+    </signature>
+    <signature>
+        <no>158</no>
+        <name>Warm neutral</name>
+        <model>Custom Art FIBAE Black</model>
+        <description>Smooth, neutral-ish signature that serves as an all rounder.</description>
+    </signature>
+    <signature>
+        <no>159</no>
+        <name>Warm</name>
+        <model>Earsonics EM10</model>
+        <description>Oddly low dynamics makes this sound rather dead and lifeless.</description>
+    </signature>
+    <signature>
+        <no>160</no>
+        <name>Neutral with bass boost</name>
+        <model>Elysian Cora (2019)</model>
+        <description>A decent hybrid weird slightly odd midrange tonality.</description>
+    </signature>
+    <signature>
+        <no>161</no>
+        <name>DF-neutral</name>
+        <model>Fearless S10 Genie</model>
+        <description>Sounds like an attempt at DF-neutral gone wrong. Tonally evokes a sense of "uncanny valley".</description>
+    </signature>
+    <signature>
+        <no>162</no>
+        <name>Warm</name>
+        <model>Fearless Lancelot</model>
+        <description>Rather generic tuning with no redeeming qualities for its price and status.</description>
+    </signature>
+    <signature>
+        <no>163</no>
+        <name>DF-neutral</name>
+        <model>Fearless HyperS 12BA</model>
+        <description>Similar if not identical to the S10 Genie.</description>
+    </signature>
+    <signature>
+        <no>164</no>
+        <name>Bright</name>
+        <model>FitEar Private 333</model>
+        <description>Very exciting and sharp signature. Almost seems like it's made for higher-pitched vocals.</description>
+    </signature>
+    <signature>
+        <no>165</no>
+        <name>Mild V-shape</name>
+        <model/>
+        <description>Lively sound with great technicalities and substandard tonality.</description>
+    </signature>
+    <signature>
+        <no>166</no>
+        <name>Dark</name>
+        <model>Hyla Nerva X</model>
+        <description>Low dynamics, rolled off and nothing that it really excels in.</description>
+    </signature>
+    <signature>
+        <no>167</no>
+        <name>Upper mid focused</name>
+        <model>ikko OH1</model>
+        <description>Well controlled sub-bass focus, high clarity and has an inherent "Asian" signature.</description>
+    </signature>
+    <signature>
+        <no>168</no>
+        <name>Warm neutral</name>
+        <model>InEar Stagediver SD2</model>
+        <description>Well-balanced, excellent tuning and good technical ability. Similar to IM02.</description>
+    </signature>
+    <signature>
+        <no>169</no>
+        <name>Neutral</name>
+        <model>Itsfit R3</model>
+        <description>Similar to the lauded UERM, but without its resolution nor sparkle.</description>
+    </signature>
+    <signature>
+        <no>170</no>
+        <name>Neutral</name>
+        <model>Jabra Elite Active 65t</model>
+        <description>Excellent tonal balance and timbre, though technical ability isn't the best.</description>
+    </signature>
+    <signature>
+        <no>171</no>
+        <name>Mild V-shape</name>
+        <model>Kinera Nanna</model>
+        <description>Surprisingly good implementation of the EST tweeters, but lacking details.</description>
+    </signature>
+    <signature>
+        <no>172</no>
+        <name>DF-neutral with bass boost</name>
+        <model>Lypertek Tevi</model>
+        <description>Probably the closest thing to an ER2XR in TWS form.</description>
+    </signature>
+    <signature>
+        <no>173</no>
+        <name>Warm V-shape</name>
+        <model>Meze Rai Penta</model>
+        <description>Pleasing tonality with subpar technical ability.</description>
+    </signature>
+    <signature>
+        <no>174</no>
+        <name>Warm V-shape</name>
+        <model>Moondrop Kanas Pro</model>
+        <description>Somewhat Harman-esque in tuning, not the best in terms of resolution.</description>
+    </signature>
+    <signature>
+        <no>175</no>
+        <name>U-shaped</name>
+        <model>Oriolus Forsteni</model>
+        <description>Great sparkle, deep-reaching DD bass and high clarity. Spacious staging.</description>
+    </signature>
+    <signature>
+        <no>176</no>
+        <name>Warm</name>
+        <model>qdc Fusion</model>
+        <description>Dulled transients and lacks detailing. Tonality is merely okay.</description>
+    </signature>
+    <signature>
+        <no>177</no>
+        <name>Mild V-shape</name>
+        <model/>
+        <description>An all-rounder to a fault. Truly a master of none.</description>
+    </signature>
+    <signature>
+        <no>178</no>
+        <name>Harman-neutral</name>
+        <model>Sony MH755</model>
+        <description>Clean notes, proper sub-bass extension and a tonal balance beyond expectations.</description>
+    </signature>
+    <signature>
+        <no>179</no>
+        <name>Neutral</name>
+        <model>Stealthsonics U9</model>
+        <description>An otherwise capable hybrid caught out by nasally and odd midrange.</description>
+    </signature>
+    <signature>
+        <no>180</no>
+        <name>Variable</name>
+        <model>Tansio Mirai TSMR-5</model>
+        <description>Alright tonality, decent detailing but nothing that makes it stand out.</description>
+    </signature>
+    <signature>
+        <no>181</no>
+        <name>Bright neutral</name>
+        <model>Tin HiFi T4</model>
+        <description>A worthy successor to the legendary GR07.</description>
+    </signature>
+    <signature>
+        <no>182</no>
+        <name>"Balanced"</name>
+        <model>Ultimate Ears UE6 Pro</model>
+        <description>A capable hybrid with little weaknesses.</description>
+    </signature>
+    <signature>
+        <no>183</no>
+        <name>Warm neutral</name>
+        <model>Ultimate Ears UE7 Pro</model>
+        <description>Good clarity and detail with boosted, warm bass and controlled treble.</description>
+    </signature>
+    <signature>
+        <no>184</no>
+        <name>U-shaped</name>
+        <model/>
+        <description>Extremely clear but may be too thin for some.</description>
+    </signature>
+    <signature>
+        <no>185</no>
+        <name>Mild V-shape</name>
+        <model>VSonic GR07 Classic</model>
+        <description>Well-balanced, well-tuned, good technicalities. The $100 benchmark since ever.</description>
+    </signature>
+    <signature>
+        <no>186</no>
+        <name>V-shaped</name>
+        <model>Vision Ears VE4.2</model>
+        <description>Decently tuned monitor with adequate resolution, but nothing that hasn't been done before for cheap.</description>
+    </signature>
+    <signature>
+        <no>187</no>
+        <name>Warm neutral</name>
+        <model>Westone W80</model>
+        <description>Nicely balanced, intimate and slightly dry. Perhaps the least Westone-sounding Westone.</description>
+    </signature>
+    <signature>
+        <no>188</no>
+        <name>Warm</name>
+        <model>AAW A3H Pro V2</model>
+        <description>Decent technicalities with well controlled bass and treble rolloff.</description>
+    </signature>
+    <signature>
+        <no>189</no>
+        <name>V-shaped</name>
+        <model>Anker Soundcore Liberty 2 Pro</model>
+        <description>Impressive sub-focused bass response, limited by its shouty and sharp midrange and treble.</description>
+    </signature>
+    <signature>
+        <no>190</no>
+        <name>U-shaped</name>
+        <model>Audio Technica ATH-SPORT7TW</model>
+        <description>Clean bass and decent midrange tonality, though comes with strident treble.</description>
+    </signature>
+    <signature>
+        <no>191</no>
+        <name>Warm V-shape</name>
+        <model>BGVP DM6</model>
+        <description>Warm tilt in tone, decent detail retrieval though definition is a little too smoothed over.</description>
+    </signature>
+    <signature>
+        <no>192</no>
+        <name>Warm V-shape</name>
+        <model>BLON BL03</model>
+        <description>Very pleasing and safe tuning with subpar technical detailing.</description>
+    </signature>
+    <signature>
+        <no>193</no>
+        <name>Warm</name>
+        <model>Campfire Dorado</model>
+        <description>Extremely coherent albeit slightly congested. Great for intimacy lovers.</description>
+    </signature>
+    <signature>
+        <no>194</no>
+        <name>V-shaped</name>
+        <model>Campfire Polaris V1</model>
+        <description>Pseudo-Japanese tuning focusing on female vocals and a very lively signature.</description>
+    </signature>
+    <signature>
+        <no>195</no>
+        <name>"Balanced"</name>
+        <model/>
+        <description>Great clarity and staging though with odd upper midrange.</description>
+    </signature>
+    <signature>
+        <no>196</no>
+        <name>V-shaped</name>
+        <model>Campfire Vega</model>
+        <description>Powerful bass, sharp treble and muffled midrange.</description>
+    </signature>
+    <signature>
+        <no>197</no>
+        <name>V-shaped</name>
+        <model>CCA C10</model>
+        <description>Surprisingly well-tuned hybrid from a KZ-style company. Definitely the best in its lineup.</description>
+    </signature>
+    <signature>
+        <no>198</no>
+        <name>Mid-centric</name>
+        <model>Custom Art FIBAE3</model>
+        <description>A clarity-focused IEM. Weak in staging, perhaps too thin on the note weight but ultimately does its kind of sound without hiccups.</description>
+    </signature>
+    <signature>
+        <no>199</no>
+        <name>V-shaped</name>
+        <model>Edifier TWS5</model>
+        <description>Good tone and bass response, but unfortunately lacking detail retrieval.</description>
+    </signature>
+    <signature>
+        <no>200</no>
+        <name>Warm</name>
+        <model>Elysian Artemis</model>
+        <description>Thick, warm and smooth signature without complete sacrifice in technicalities.</description>
+    </signature>
+    <signature>
+        <no>201</no>
+        <name>Dark neutral</name>
+        <model>Empire Ears Wraith</model>
+        <description>A Zeus with almost nonexistent treble and clarity.</description>
+    </signature>
+    <signature>
+        <no>202</no>
+        <name>Neutral</name>
+        <model>Final Audio E1000</model>
+        <description>Balanced tuning with good clarity and acceptable resolution. Surprising pick.</description>
+    </signature>
+    <signature>
+        <no>203</no>
+        <name>V-shaped</name>
+        <model>Final Audio E2000</model>
+        <description>Not too dissimiliar to a GR07, though lacking in that last octave of bass extension.</description>
+    </signature>
+    <signature>
+        <no>204</no>
+        <name>Warm</name>
+        <model>Final Audio E3000</model>
+        <description>A warmer, bassier E2000.</description>
+    </signature>
+    <signature>
+        <no>205</no>
+        <name>V-shaped</name>
+        <model>Final Audio E4000</model>
+        <description>Rather standard sounding, non-offensive and neutral in tone.</description>
+    </signature>
+    <signature>
+        <no>206</no>
+        <name>Warm</name>
+        <model>Final Audio E5000</model>
+        <description>Less treble than the E4000 for a slightly different flavour.</description>
+    </signature>
+    <signature>
+        <no>207</no>
+        <name>Bright neutral</name>
+        <model/>
+        <description>Solid technical ability though might be a little too sterile at times.</description>
+    </signature>
+    <signature>
+        <no>208</no>
+        <name>V-shaped</name>
+        <model>FiiO F9</model>
+        <description>Good technicalities, average timbre, perhaps a little excessive on the highs.</description>
+    </signature>
+    <signature>
+        <no>209</no>
+        <name>V-shaped</name>
+        <model>FiiO FH7</model>
+        <description>What is otherwise a pretty good hybrid marred by a strange tonality.</description>
+    </signature>
+    <signature>
+        <no>210</no>
+        <name>V-shaped</name>
+        <model>Fostex TM2</model>
+        <description>A little thin, a little bright and a little shouty, but not bad overall.</description>
+    </signature>
+    <signature>
+        <no>211</no>
+        <name>V-shaped</name>
+        <model>iBasso IT01S</model>
+        <description>Balanced tuning, slight lean towards brightness. Should be pleasing for most ears.</description>
+    </signature>
+    <signature>
+        <no>212</no>
+        <name>U-shaped</name>
+        <model>iBasso IT03</model>
+        <description>Excellent bass and clarity. Hollow midrange and somewhat metallic treble.</description>
+    </signature>
+    <signature>
+        <no>213</no>
+        <name>Variable</name>
+        <model>IMR R2 Aten</model>
+        <description>Decent sounding mids with bass that ranges from bleeding to non-existent.</description>
+    </signature>
+    <signature>
+        <no>214</no>
+        <name>U-shaped</name>
+        <model>Intime Sora</model>
+        <description>Well controlled bass boost with slightly skewed tonality. Potential is there.</description>
+    </signature>
+    <signature>
+        <no>215</no>
+        <name>"Balanced"</name>
+        <model>Itsfit Fusion</model>
+        <description>Hard to pinpoint its exact signature, but the result is an odd tonality.</description>
+    </signature>
+    <signature>
+        <no>216</no>
+        <name>Variable</name>
+        <model>JH Audio Layla</model>
+        <description>Suppressed upper mids and odd treble tuning. Decent technicalities.</description>
+    </signature>
+    <signature>
+        <no>217</no>
+        <name>Variable</name>
+        <model>Kumitate KL-REF Type-S</model>
+        <description>Well tuned but unfortunately suffers from very odd timbre.</description>
+    </signature>
+    <signature>
+        <no>218</no>
+        <name>DF-neutral</name>
+        <model>KZ E10</model>
+        <description>A little bright, almost edging on shoutiness, but overall a decent attempt at neutrality.</description>
+    </signature>
+    <signature>
+        <no>219</no>
+        <name>Variable</name>
+        <model>Lime Ears Aether R</model>
+        <description>A downgrade from the original with weirder midrange tonality.</description>
+    </signature>
+    <signature>
+        <no>220</no>
+        <name>Warm</name>
+        <model>Periodic Audio Mg</model>
+        <description>Not the most clear or detailed but a very clean sound with good timbre.</description>
+    </signature>
+    <signature>
+        <no>221</no>
+        <name>Neutral</name>
+        <model>QCY T5</model>
+        <description>An odd take on a reference-style signature, but definitely not the worst attempt out there.</description>
+    </signature>
+    <signature>
+        <no>222</no>
+        <name>V-shaped</name>
+        <model>Shuoer Tape</model>
+        <description>Decent technicalities but it basically screams in your face.</description>
+    </signature>
+    <signature>
+        <no>223</no>
+        <name>Warm</name>
+        <model>Shozy &amp; Neo CP</model>
+        <description>Reference-style tuning, decent tonal balance, solid technical ability.</description>
+    </signature>
+    <signature>
+        <no>224</no>
+        <name>Warm neutral</name>
+        <model>Shozy Form 1.1</model>
+        <description>Relaxing, non-fatiguing listen with minor cutbacks in detailing.</description>
+    </signature>
+    <signature>
+        <no>225</no>
+        <name>Warm neutral</name>
+        <model>Shozy Form 1.4</model>
+        <description>Very similar to the Form 1.1 in both tone and technicalities.</description>
+    </signature>
+    <signature>
+        <no>226</no>
+        <name>V-shaped</name>
+        <model>Tanchjim Cora</model>
+        <description>Well-controlled bass boost, though coupled with a slightly odd midrange tonality.</description>
+    </signature>
+    <signature>
+        <no>227</no>
+        <name>V-shaped</name>
+        <model>TFZ King Pro</model>
+        <description>Powerful yet controlled bass response, good snap in the treble, doesn't sacrifice too much in the midrange.</description>
+    </signature>
+    <signature>
+        <no>228</no>
+        <name>V-shaped</name>
+        <model>TFZ Secret Garden</model>
+        <description>Decent bass response and peaky treble, not much to say.</description>
+    </signature>
+    <signature>
+        <no>229</no>
+        <name>Neutral</name>
+        <model>Tin HiFi T2</model>
+        <description>Well-balanced tuning and an all-rounder signature that works for most.</description>
+    </signature>
+    <signature>
+        <no>230</no>
+        <name>Mild V-shape</name>
+        <model>Tin HiFi T3</model>
+        <description>Somewhat generic hybrid signature, tuned well with good transient ability.</description>
+    </signature>
+    <signature>
+        <no>231</no>
+        <name>Bassy</name>
+        <model>Ultimate Ears UE11 Pro</model>
+        <description>Quite a bit of low-end emphasis. Overly-congested and smeared transients.</description>
+    </signature>
+    <signature>
+        <no>232</no>
+        <name>V-shaped</name>
+        <model>Urbanfun YBF-ISS014</model>
+        <description>Clear detailing marred slightly by an almost generic and sharp tuning.</description>
+    </signature>
+    <signature>
+        <no>233</no>
+        <name>Mild V-shape</name>
+        <model/>
+        <description>A mini GR07. Need I say more?</description>
+    </signature>
+    <signature>
+        <no>234</no>
+        <name>V-shaped</name>
+        <model>Zero Audio Carbo Tenore ZH-DX200-CT</model>
+        <description>A well-tuned V-shaped signature that maintains solid midrange and excellent clarity.</description>
+    </signature>
+    <signature>
+        <no>235</no>
+        <name>"Balanced"</name>
+        <model>1Custom SA02</model>
+        <description>Odd take on neutral with a coloured tonality.</description>
+    </signature>
+    <signature>
+        <no>236</no>
+        <name>V-shaped</name>
+        <model>AAW A3H (2019)</model>
+        <description>Emphasised midbass and upper mids. Generic hybrid.</description>
+    </signature>
+    <signature>
+        <no>237</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>Bassy and has that typical "chifi DD" sound.</description>
+    </signature>
+    <signature>
+        <no>238</no>
+        <name>Bright</name>
+        <model/>
+        <description>Well balanced bright response. Good detail and doesn't sound odd in any place.</description>
+    </signature>
+    <signature>
+        <no>239</no>
+        <name>Neutral</name>
+        <model>Advanced Evo X</model>
+        <description>A well-balanced Bluetooth IEM. A very nice surprise.</description>
+    </signature>
+    <signature>
+        <no>240</no>
+        <name>Variable</name>
+        <model/>
+        <description>A rather typical hybrid tuned to the Harman Target. Nothing special especially for the asking price.</description>
+    </signature>
+    <signature>
+        <no>241</no>
+        <name>"Balanced"</name>
+        <model>Audeze LCDi4 (No Cipher)</model>
+        <description>Low distortion, high resolution and excellent clarity marred by poor tuning which destroys timbre.</description>
+    </signature>
+    <signature>
+        <no>242</no>
+        <name>V-shaped</name>
+        <model>Audiosense T800</model>
+        <description>Generic tuning that's nothing special in terms of tonal accuracy nor technicalities.</description>
+    </signature>
+    <signature>
+        <no>243</no>
+        <name>V-shaped</name>
+        <model>TE-D01b</model>
+        <description>Standard V-shaped siganture with passable transients.</description>
+    </signature>
+    <signature>
+        <no>244</no>
+        <name>Bassy</name>
+        <model>BGVP DMG</model>
+        <description>Decent tonal balance though bass response is not up to par.</description>
+    </signature>
+    <signature>
+        <no>245</no>
+        <name>Variable</name>
+        <model>BGVP ES12</model>
+        <description>Slightly honky midrange tonality with the usual EST tweeter roll-off.</description>
+    </signature>
+    <signature>
+        <no>246</no>
+        <name>Warm</name>
+        <model>Campfire Comet</model>
+        <description>Rolled-off at the top end, warm and bassy single-BA sound reminiscent of Final's offerings.</description>
+    </signature>
+    <signature>
+        <no>247</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>Campfire's take on a V-shaped dynamic sound. Wouldn't call it exceptional.</description>
+    </signature>
+    <signature>
+        <no>248</no>
+        <name>V-shaped</name>
+        <model>CCA C12</model>
+        <description>Nothing much to say; typical KZ-style tuning with shouty midrange and subpar technicalities.</description>
+    </signature>
+    <signature>
+        <no>249</no>
+        <name>Warm</name>
+        <model>Creative Aurvana Trio</model>
+        <description>Surprising lack of BA timbre, but still rather average in technicalities.</description>
+    </signature>
+    <signature>
+        <no>250</no>
+        <name>V-shaped</name>
+        <model>Dynamic Motion DM200H</model>
+        <description>Generic V-shaped hybrid without any special traits.</description>
+    </signature>
+    <signature>
+        <no>251</no>
+        <name>Warm</name>
+        <model/>
+        <description>Non-fatiguing, relaxing listen. "Normal".</description>
+    </signature>
+    <signature>
+        <no>252</no>
+        <name>V-shaped</name>
+        <model>Edifier TWS1</model>
+        <description>Decent bass response, subpar treble, overall passable.</description>
+    </signature>
+    <signature>
+        <no>253</no>
+        <name>Warm</name>
+        <model>Elysian Eros</model>
+        <description>Typical "dual driver" sound. Not very impressive.</description>
+    </signature>
+    <signature>
+        <no>254</no>
+        <name>V-shaped</name>
+        <model>Fearless Start</model>
+        <description>Typical chifi V-shaped sound, nothing much to report on.</description>
+    </signature>
+    <signature>
+        <no>255</no>
+        <name>U-shaped</name>
+        <model>FiiO F3</model>
+        <description>Well-balanced U-shaped sound that's rather atypical of a chifi dynamic IEM.</description>
+    </signature>
+    <signature>
+        <no>256</no>
+        <name>V-shaped</name>
+        <model>FiiO F5</model>
+        <description>Typical chifi V-shaped sound, nothing much to report on.</description>
+    </signature>
+    <signature>
+        <no>257</no>
+        <name>Neutral</name>
+        <model>FiiO FA1</model>
+        <description>A pretty standard reference-style tuning that just works.</description>
+    </signature>
+    <signature>
+        <no>258</no>
+        <name>Warm</name>
+        <model>Final Audio LAB 1</model>
+        <description>Pretty standard tuning that doesn't live up to its build, pricing or prestige.</description>
+    </signature>
+    <signature>
+        <no>259</no>
+        <name>Warm V-shape</name>
+        <model>FitEar Air 2</model>
+        <description>Generic hybrid sound. Doesn't really perform up to par either.</description>
+    </signature>
+    <signature>
+        <no>260</no>
+        <name>Mild V-shape</name>
+        <model>Focal Sphear</model>
+        <description>Good timbre, good bass and well-balanced tuning.</description>
+    </signature>
+    <signature>
+        <no>261</no>
+        <name>Warm neutral</name>
+        <model/>
+        <description>A little boring and dead in dynamics. Not fun but not really reference either. Average.</description>
+    </signature>
+    <signature>
+        <no>262</no>
+        <name>V-shaped</name>
+        <model>Future Sonics MG5HX</model>
+        <description>Typical V-shaped DD signature with minimal focus on technicalities.</description>
+    </signature>
+    <signature>
+        <no>263</no>
+        <name>V-shaped</name>
+        <model>iBasso IT01</model>
+        <description>Nothing really stands out as "excellent" to me, but it does a lot of things well and little wrong.</description>
+    </signature>
+    <signature>
+        <no>264</no>
+        <name>Bright V-shape</name>
+        <model>iBasso IT03w</model>
+        <description>Its sibilant and sharp treble is a tough trait to endure.</description>
+    </signature>
+    <signature>
+        <no>265</no>
+        <name>Variable</name>
+        <model>IMR R1 Zenith</model>
+        <description>Not very detailed with a persistently odd tonal balance regardless of filters used.</description>
+    </signature>
+    <signature>
+        <no>266</no>
+        <name>V-shaped</name>
+        <model>JH Billie Jean</model>
+        <description>Follows the JH house sound but otherwise nothing special.</description>
+    </signature>
+    <signature>
+        <no>267</no>
+        <name>Warm</name>
+        <model/>
+        <description>Still sounds typically "JH" with a slightly V tuning, with slower transients and a non-fatiguing signature.</description>
+    </signature>
+    <signature>
+        <no>268</no>
+        <name>Dark</name>
+        <model>JVC HA-FW01</model>
+        <description>Very heavy and very dark sounding IEM whose signature marrs technical ability slightly.</description>
+    </signature>
+    <signature>
+        <no>269</no>
+        <name>Neutral</name>
+        <model>Kinera Odin</model>
+        <description>Sounds like a rather basic tuning and a resolution not fitting of its driver count.</description>
+    </signature>
+    <signature>
+        <no>270</no>
+        <name>V-shaped</name>
+        <model>KZ ZSN Pro</model>
+        <description>Nothing much to say; typical KZ-style tuning with shouty midrange and subpar technicalities.</description>
+    </signature>
+    <signature>
+        <no>271</no>
+        <name>V-shaped</name>
+        <model>KZ S2</model>
+        <description>Nothing much to say; typical KZ-style tuning with shouty midrange and subpar technicalities.</description>
+    </signature>
+    <signature>
+        <no>272</no>
+        <name>Neutral</name>
+        <model>Massdrop x NuForce EDC3</model>
+        <description>Well tuned, though not the most technical nor the most natural sounding.</description>
+    </signature>
+    <signature>
+        <no>273</no>
+        <name>Warm V-shape</name>
+        <model/>
+        <description>Upper midrange emphasis with soft, warm bass. Nice for mainstream listening.</description>
+    </signature>
+    <signature>
+        <no>274</no>
+        <name>Warm</name>
+        <model>Noble Savant 2</model>
+        <description>Decent tonal balance with subpar detail retrieval.</description>
+    </signature>
+    <signature>
+        <no>275</no>
+        <name>Warm V-shape</name>
+        <model/>
+        <description>Generic V-shaped tuning with not much clarity or detailing capability.</description>
+    </signature>
+    <signature>
+        <no>276</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>Generic V-shaped tuning that doesn't stand out technically from other similar IEMs.</description>
+    </signature>
+    <signature>
+        <no>277</no>
+        <name>Neutral</name>
+        <model>NuForce HEM1</model>
+        <description>Reference tuning with tonal balance. Unfortunately limited by its technicalities.</description>
+    </signature>
+    <signature>
+        <no>278</no>
+        <name>Bright</name>
+        <model>Oriolus Finschi</model>
+        <description>Energetic and bright, overall a well built hybrid that can be strident for some ears.</description>
+    </signature>
+    <signature>
+        <no>279</no>
+        <name>Warm neutral</name>
+        <model>Oriveti New Primacy</model>
+        <description>Rather balanced, almost neutral hybrid. All rounder.</description>
+    </signature>
+    <signature>
+        <no>280</no>
+        <name>Neutral</name>
+        <model>Rose BR5 Mk2</model>
+        <description>Not a bad IEM, though BA timbre comes in strong with this one. Not the most technical but it does the job when called for it.</description>
+    </signature>
+    <signature>
+        <no>281</no>
+        <name>Mid-centric</name>
+        <model>Shure SE535</model>
+        <description>Tonally dead. One-note bass. No treble worth mentioning.</description>
+    </signature>
+    <signature>
+        <no>282</no>
+        <name>Mid-centric</name>
+        <model>Simgot EN700</model>
+        <description>Good clarity and energetic signature.</description>
+    </signature>
+    <signature>
+        <no>283</no>
+        <name>Neutral</name>
+        <model>Stax SR-001 Mk1 w/ CES-A1</model>
+        <description>Sounds surprisingly dull and undetailed for a "true" electrostatic.</description>
+    </signature>
+    <signature>
+        <no>284</no>
+        <name>V-shaped</name>
+        <model>Stealthsonics U2</model>
+        <description>Sharp, emphasised treble and boosted bass, sounds more mainstream than audiophile.</description>
+    </signature>
+    <signature>
+        <no>285</no>
+        <name>Warm neutral</name>
+        <model>Symphonium Audio Aurora</model>
+        <description>Solid tuning, though average in technicalities.</description>
+    </signature>
+    <signature>
+        <no>286</no>
+        <name>V-shaped</name>
+        <model>TFZ 5S</model>
+        <description>Warm and somewhat slow in transients. Good timbre, average tuning.</description>
+    </signature>
+    <signature>
+        <no>287</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>Better tuned than the 5S with a little extra treble which improves clarity and overall staging.</description>
+    </signature>
+    <signature>
+        <no>288</no>
+        <name>V-shaped</name>
+        <model>Tiandirenhe TD1</model>
+        <description>Generic V-shaped DD with alright midrange tonality and technicalities.</description>
+    </signature>
+    <signature>
+        <no>289</no>
+        <name>Bright neutral</name>
+        <model>Tin Audio T2 Pro</model>
+        <description>A T2 tuned with less sub-bass and more treble. High clarity but may not be for everyone.</description>
+    </signature>
+    <signature>
+        <no>290</no>
+        <name>Warm</name>
+        <model>Ultimate Ears Triple Fi 10 "TF10"</model>
+        <description>Decent tonality and timbre. Not as detailed as the new kids on the block but has the fundamentals down.</description>
+    </signature>
+    <signature>
+        <no>291</no>
+        <name>Warm V-shape</name>
+        <model>Unknown Custom UCD-2</model>
+        <description>A common 2-driver signature with passable resolution.</description>
+    </signature>
+    <signature>
+        <no>292</no>
+        <name>V-shaped</name>
+        <model>Venture Electronics BIE</model>
+        <description>Generic V-shaped DD with alright midrange tonality and technicalities.</description>
+    </signature>
+    <signature>
+        <no>293</no>
+        <name>Warm</name>
+        <model>VSonic VS7</model>
+        <description>A less fatiguing, less technical version of its predecessor.</description>
+    </signature>
+    <signature>
+        <no>294</no>
+        <name>"Balanced"</name>
+        <model>1More Quad Driver</model>
+        <description>Okay-ish technical ability in a mainstream tuning. Can get congested.</description>
+    </signature>
+    <signature>
+        <no>295</no>
+        <name>U-shaped</name>
+        <model/>
+        <description>Excellent clarity and wide staging due to semi-open design. DD bass manages to shine through.</description>
+    </signature>
+    <signature>
+        <no>296</no>
+        <name>"Balanced"</name>
+        <model>AAW Nightingale</model>
+        <description>Horribly tuned midrange that sounds wrong and lacks energy.</description>
+    </signature>
+    <signature>
+        <no>297</no>
+        <name>V-shaped</name>
+        <model>Acoustune HS1503</model>
+        <description>Shrill, odd timbre and way too intense for normal listening.</description>
+    </signature>
+    <signature>
+        <no>298</no>
+        <name>Bassy</name>
+        <model>Advanced Elise</model>
+        <description>Boomy and heavy sounding. Smoothed over details but not the worst out there.</description>
+    </signature>
+    <signature>
+        <no>299</no>
+        <name>Bassy</name>
+        <model>Anthem Five E2</model>
+        <description>Lots of bass and not a lot of treble to balance it out. Alright midrange tone but resolution is poor.</description>
+    </signature>
+    <signature>
+        <no>300</no>
+        <name>Unique</name>
+        <model>Audeze iSine 10</model>
+        <description>Low distortion, high resolution and excellent clarity marred by poor tuning which destroys timbre.</description>
+    </signature>
+    <signature>
+        <no>301</no>
+        <name>Bright neutral</name>
+        <model>BGVP Q2</model>
+        <description>Poor bass, thin notes, shouty midrange and sharp treble.</description>
+    </signature>
+    <signature>
+        <no>302</no>
+        <name>Neutral</name>
+        <model>Brainwavz B400</model>
+        <description>Dulled transients and dynamics makes this a boring listen.</description>
+    </signature>
+    <signature>
+        <no>303</no>
+        <name>Neutral with laid-back treble</name>
+        <model/>
+        <description>Somewhat dead-sounding with no shimmer or sparkle in the upper registers.</description>
+    </signature>
+    <signature>
+        <no>304</no>
+        <name>Bassy</name>
+        <model>Campfire Polaris V2</model>
+        <description>Overwhelming amounts of bass only slightly balanced out by a midtreble emphasis.</description>
+    </signature>
+    <signature>
+        <no>305</no>
+        <name>"Balanced"</name>
+        <model>Cayin YB04</model>
+        <description>An odd take on neutrality that sounds weird and uneven.</description>
+    </signature>
+    <signature>
+        <no>306</no>
+        <name>Warm V-shape</name>
+        <model>Elysian Minerva</model>
+        <description>Wonky tone with blunted notes, not very revealing.</description>
+    </signature>
+    <signature>
+        <no>307</no>
+        <name>"Balanced"</name>
+        <model>Fatfreq Eden</model>
+        <description>A strange sounding monitor with no clear direction in its tuning.</description>
+    </signature>
+    <signature>
+        <no>308</no>
+        <name>Warm</name>
+        <model>Fearless Crystal Pearl</model>
+        <description>Veiled, weird sounding and lacking details.</description>
+    </signature>
+    <signature>
+        <no>309</no>
+        <name>Dark</name>
+        <model>Fearless Roland</model>
+        <description>An almost total lack of treble results in a muffled, dark presentation.</description>
+    </signature>
+    <signature>
+        <no>310</no>
+        <name>Warm</name>
+        <model>FiiO FA7</model>
+        <description>Boring, overly warm tuning that lacks detailing.</description>
+    </signature>
+    <signature>
+        <no>311</no>
+        <name>V-shaped</name>
+        <model>FiR M2</model>
+        <description>Shrill, unnatural tone in an otherwise acceptable technical package.</description>
+    </signature>
+    <signature>
+        <no>312</no>
+        <name>Neutral-bright</name>
+        <model/>
+        <description>Balanced and clear. Very good value.</description>
+    </signature>
+    <signature>
+        <no>313</no>
+        <name>Bright</name>
+        <model>Heir Audio Tzar 350</model>
+        <description>Its detail would be appreciated if it didn't come with ear-splitting treble.</description>
+    </signature>
+    <signature>
+        <no>314</no>
+        <name>Neutral with laid-back treble</name>
+        <model/>
+        <description>Very good tuning, well-balanced signature.</description>
+    </signature>
+    <signature>
+        <no>315</no>
+        <name>"Balanced"</name>
+        <model>I-INTO i8</model>
+        <description>Somewhat downsloping signature. It's an IEM that exists.</description>
+    </signature>
+    <signature>
+        <no>316</no>
+        <name>U-shaped</name>
+        <model>Jabra Elite 75t</model>
+        <description>Overdone sub-bass response, sharp treble, thin midrange.</description>
+    </signature>
+    <signature>
+        <no>317</no>
+        <name>V-shaped</name>
+        <model>Kinera Idun</model>
+        <description>Not a bad hybrid, considering Kinera's track record.</description>
+    </signature>
+    <signature>
+        <no>318</no>
+        <name>V-shaped</name>
+        <model>KZ ZS3</model>
+        <description>Simple DD tuning. It's an IEM that exists.</description>
+    </signature>
+    <signature>
+        <no>319</no>
+        <name>Neutral</name>
+        <model>Meccaudio ME-04</model>
+        <description>A not-quite-neutral "neutral" monitor.</description>
+    </signature>
+    <signature>
+        <no>320</no>
+        <name>V-shaped</name>
+        <model>Noble Falcon</model>
+        <description>Harsh midrange with strong bass and treble. Very mainstream sound.</description>
+    </signature>
+    <signature>
+        <no>321</no>
+        <name>Bassy</name>
+        <model>Oriveti Basic</model>
+        <description>Lots of sub-bass rumble with an energetic midrange. Roll-off for non-fatigue.</description>
+    </signature>
+    <signature>
+        <no>322</no>
+        <name>V-shaped</name>
+        <model>Pai Audio DM2A</model>
+        <description>Weird midrange. Oddly similar to the Kinera IDUN.</description>
+    </signature>
+    <signature>
+        <no>323</no>
+        <name>V-shaped</name>
+        <model>Shanling ME100</model>
+        <description>An odd take on the typical "chifi DD" sound, rolling off the bass for extra clarity at the expense of tonality.</description>
+    </signature>
+    <signature>
+        <no>324</no>
+        <name>Neutral</name>
+        <model>Sennheiser IE40 Pro</model>
+        <description>An odd take on a balanced signature that sounds dead and lifeless.</description>
+    </signature>
+    <signature>
+        <no>325</no>
+        <name>V-shaped</name>
+        <model>Sennheiser Momentum In-Ear</model>
+        <description>Fuzzy, typical V-shaped sound but nothing too egregious.</description>
+    </signature>
+    <signature>
+        <no>326</no>
+        <name>V-shaped</name>
+        <model>Sennheiser Momentum True Wireless</model>
+        <description>Similar but not identical to its wired counterpart. A weirdly tuned V-shaped response.</description>
+    </signature>
+    <signature>
+        <no>327</no>
+        <name>"Balanced"</name>
+        <model>Spiral Ears SE5U</model>
+        <description>Weird phasing, horrible tonal balance with near zero regard for treble.</description>
+    </signature>
+    <signature>
+        <no>328</no>
+        <name>Warm</name>
+        <model>Stax SR-001 Mk1</model>
+        <description>Sounds like an old-school on-ear headphone from the 80s.</description>
+    </signature>
+    <signature>
+        <no>329</no>
+        <name>Warm</name>
+        <model>Stealthsonics U4</model>
+        <description>An odd character, simultaneously bassy and thin at the same time.</description>
+    </signature>
+    <signature>
+        <no>330</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>A decently tuned V-shaped hybrid with energetic upper midrange. May be intense for some.</description>
+    </signature>
+    <signature>
+        <no>331</no>
+        <name>Warm neutral</name>
+        <model>Tin HiFi P1</model>
+        <description>One of the rare few IEM-style planars with proper tonal balance without EQ, but lacking detail retrieval.</description>
+    </signature>
+    <signature>
+        <no>332</no>
+        <name>Warm</name>
+        <model>Tin HiFI T1</model>
+        <description>Could use some more high frequency response. Seems like squandered potential.</description>
+    </signature>
+    <signature>
+        <no>333</no>
+        <name>V-shaped</name>
+        <model>TRN BA5</model>
+        <description>Low resolution, passable tonality.</description>
+    </signature>
+    <signature>
+        <no>334</no>
+        <name>Warm</name>
+        <model>Ultimate Ears Live</model>
+        <description>Soft, muddy, low resolution and lacks any sort of definition.</description>
+    </signature>
+    <signature>
+        <no>335</no>
+        <name>Warm</name>
+        <model>Ultimate Ears UE5 Pro</model>
+        <description>Dead dynamics, overly warm and congested.</description>
+    </signature>
+    <signature>
+        <no>336</no>
+        <name>Warm</name>
+        <model>Venture Electronics Duke</model>
+        <description>Oddly tuned dynamic, but at least it's not the Monk IEs.</description>
+    </signature>
+    <signature>
+        <no>337</no>
+        <name>Warm V-shape</name>
+        <model>Whizzer A-HE03 "Kylin"</model>
+        <description>Odd tonality and lacklustre technical ability overall.</description>
+    </signature>
+    <signature>
+        <no>338</no>
+        <name>Dark</name>
+        <model>Westone 4R</model>
+        <description>Low resolution, extremely blunted and narrow imaging.</description>
+    </signature>
+    <signature>
+        <no>339</no>
+        <name>Bright neutral</name>
+        <model>Advanced M5-5D</model>
+        <description>An otherwise capable hybrid unfortunately let down by its ridiculous treble spike.</description>
+    </signature>
+    <signature>
+        <no>340</no>
+        <name>V-shaped</name>
+        <model>Advanced Model X</model>
+        <description>Extreme treble and bass response to a fault.</description>
+    </signature>
+    <signature>
+        <no>341</no>
+        <name>"Balanced"</name>
+        <model>Advanced GT3 Superbass</model>
+        <description>Acceptable resolution though the tone is off in many ways. Filters don't seem to address that issue.</description>
+    </signature>
+    <signature>
+        <no>342</no>
+        <name>Unique</name>
+        <model>Cozoy Trio</model>
+        <description>Odd tuning, doesn't sound too bad but it's overall not very impressive at all.</description>
+    </signature>
+    <signature>
+        <no>343</no>
+        <name>Warm</name>
+        <model>Fearless S5T</model>
+        <description>Tonally off and lacking details. Not enough bite or energy either.</description>
+    </signature>
+    <signature>
+        <no>344</no>
+        <name>V-shaped</name>
+        <model>fineEars TSH-HR1000K</model>
+        <description>Pretty decent tonality but is severely lacking details.</description>
+    </signature>
+    <signature>
+        <no>345</no>
+        <name>V-shaped</name>
+        <model>Jaybirds Vista</model>
+        <description>Extremely scooped out midrange with piercing treble.</description>
+    </signature>
+    <signature>
+        <no>346</no>
+        <name>"Balanced"</name>
+        <model>Kinera SEED</model>
+        <description>Lacking in bass extension and tonally skewed too much to the higher frequencies.</description>
+    </signature>
+    <signature>
+        <no>347</no>
+        <name>V-shaped</name>
+        <model>KZ AS16</model>
+        <description>Nothing much to say; typical KZ-style tuning with shouty midrange and subpar technicalities.</description>
+    </signature>
+    <signature>
+        <no>348</no>
+        <name>Bright V-shape</name>
+        <model>Lear LCM-BD4.2</model>
+        <description>Harsh, overly-textured and extremely fatiguing. Excellent technical ability completely shut down by tuning and timbre mismatch.</description>
+    </signature>
+    <signature>
+        <no>349</no>
+        <name>V-shaped</name>
+        <model>Master &amp; Dynamic MW07</model>
+        <description>Extremely boosted treble and bass. Prioritises wow factor over fidelity.</description>
+    </signature>
+    <signature>
+        <no>350</no>
+        <name>V-shaped</name>
+        <model>Noble M3</model>
+        <description>Strident and harsh midrange only saved by its somewhat competent bass presentation.</description>
+    </signature>
+    <signature>
+        <no>351</no>
+        <name>Bassy</name>
+        <model/>
+        <description>Not the cleanest bass and with coherency issues that shouldn't exist for an IEM of its asking price.</description>
+    </signature>
+    <signature>
+        <no>352</no>
+        <name>Warm</name>
+        <model>Rose Mini2</model>
+        <description>It's somewhat natural in timbre but lacks a lot of technical proficiency.</description>
+    </signature>
+    <signature>
+        <no>353</no>
+        <name>V-shaped</name>
+        <model>Shure SE215</model>
+        <description>Sounds like a typical dynamic IEM. Slightly bloated bass and narrow staging.</description>
+    </signature>
+    <signature>
+        <no>354</no>
+        <name>Dark</name>
+        <model>Symphonium Audio Mirage</model>
+        <description>Typical single-BA sound that doesn't offer anything special.</description>
+    </signature>
+    <signature>
+        <no>355</no>
+        <name>Warm</name>
+        <model>Unique Melody ME1</model>
+        <description>Soft transients, low definition and odd timbre makes this the worst planar I've listened to.</description>
+    </signature>
+    <signature>
+        <no>356</no>
+        <name>V-shaped</name>
+        <model>Unknown Custom Quad 2.0</model>
+        <description>Low-resolution, low-detail, passable tonality.</description>
+    </signature>
+    <signature>
+        <no>357</no>
+        <name>Variable</name>
+        <model>Unknown Custom Juno</model>
+        <description>Something odd going on in the midrange. Same issues in resolution.</description>
+    </signature>
+    <signature>
+        <no>358</no>
+        <name>Dark</name>
+        <model>Warbler Prelude</model>
+        <description>Rolled off on both ends with a very typical single-BA sound.</description>
+    </signature>
+    <signature>
+        <no>359</no>
+        <name>Bassy</name>
+        <model>1More Stylish</model>
+        <description>Pretty standard "consumer signature" that panders to those who want bass and nothing else.</description>
+    </signature>
+    <signature>
+        <no>360</no>
+        <name>V-shaped</name>
+        <model>1More Triple Driver</model>
+        <description>Subpar tuning with unfortunately thin midrange. Flat bass, not in a good way.</description>
+    </signature>
+    <signature>
+        <no>361</no>
+        <name>Warm</name>
+        <model>AAW ACH/Kingfisher</model>
+        <description>Persasive warmth just puts a blanket on all the transients. Lacks definition.</description>
+    </signature>
+    <signature>
+        <no>362</no>
+        <name>V-shaped</name>
+        <model>Advanced GT3</model>
+        <description>Sharp, shrill and overall unpleasant.</description>
+    </signature>
+    <signature>
+        <no>363</no>
+        <name>V-shaped</name>
+        <model>Advanced M5-1D</model>
+        <description>Typical chifi DD sound. Nothing special.</description>
+    </signature>
+    <signature>
+        <no>364</no>
+        <name>Variable</name>
+        <model>Ambient Acoustics AM7</model>
+        <description>Unreliable switches, mediocre technical ability and the tone is slightly off.</description>
+    </signature>
+    <signature>
+        <no>365</no>
+        <name>"Balanced"</name>
+        <model>Ambient Acoustics AM16</model>
+        <description>Sounds weird and is completely average in pure technicalities. Disappointing.</description>
+    </signature>
+    <signature>
+        <no>366</no>
+        <name>"Balanced"</name>
+        <model>Ambient Acoustics AM24</model>
+        <description>See above. Perhaps even slightly worse.</description>
+    </signature>
+    <signature>
+        <no>367</no>
+        <name>"Balanced"</name>
+        <model>Astrotec Delphinus 5</model>
+        <description>Sounds plain wrong. Instruments are nowhere close to how they should on proper gear.</description>
+    </signature>
+    <signature>
+        <no>368</no>
+        <name>V-shaped</name>
+        <model>Audio Technica ATH-CK3TW</model>
+        <description>Loose and uncontrolled bass in combination with a sharp and piercing treble.</description>
+    </signature>
+    <signature>
+        <no>369</no>
+        <name>V-shaped</name>
+        <model>Audio Technica ATH-IEX1</model>
+        <description>Sounds weird, sounds wrong, needs a complete overhaul.</description>
+    </signature>
+    <signature>
+        <no>370</no>
+        <name>Dark</name>
+        <model/>
+        <description>Not just dead but almost completely devoid of treble. Double whammy.</description>
+    </signature>
+    <signature>
+        <no>371</no>
+        <name>"Balanced"</name>
+        <model>B&amp;O Beoplay E8</model>
+        <description>An extremely odd take on a neutral sound signature that simply doesn't work.</description>
+    </signature>
+    <signature>
+        <no>372</no>
+        <name>Bassy</name>
+        <model>Campfire Equinox</model>
+        <description>Extremely different from the Atlas. It's a lot worse.</description>
+    </signature>
+    <signature>
+        <no>373</no>
+        <name>Bright V-shape</name>
+        <model>CCA A10</model>
+        <description>Typical KZ-style tuning with even shoutier midrange.</description>
+    </signature>
+    <signature>
+        <no>374</no>
+        <name>Warm</name>
+        <model/>
+        <description>Weirdly incoherent and disjointed. Good warmth, though.</description>
+    </signature>
+    <signature>
+        <no>375</no>
+        <name>Warm</name>
+        <model>Earsonics Blade</model>
+        <description>Typical Earsonics house sound of "screwed up midrange", now with DD bass.</description>
+    </signature>
+    <signature>
+        <no>376</no>
+        <name>Warm</name>
+        <model>Earsonics Stark</model>
+        <description>Typical Earsonics house sound of "screwed up midrange", now with DD bass.</description>
+    </signature>
+    <signature>
+        <no>377</no>
+        <name>Warm</name>
+        <model>Effect Audio Symphony</model>
+        <description>A muddy, overly warm sound with that struggles with surface-level detailing.</description>
+    </signature>
+    <signature>
+        <no>378</no>
+        <name>V-shaped</name>
+        <model>Eternal Melody EM-2</model>
+        <description>It just sounds "meh" to be. Nothing much to say.</description>
+    </signature>
+    <signature>
+        <no>379</no>
+        <name>Bassy</name>
+        <model>Fearless ACME8</model>
+        <description>Weird and bloaty bass in conjunction with tonally weird midrange.</description>
+    </signature>
+    <signature>
+        <no>380</no>
+        <name>Bassy</name>
+        <model>Fidue A71</model>
+        <description>Boomy and bleeds into the mids. Not a lot of definition.</description>
+    </signature>
+    <signature>
+        <no>381</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>A strange take on a V response. Intense yet with no upper treble to speak of.</description>
+    </signature>
+    <signature>
+        <no>382</no>
+        <name>Dark</name>
+        <model/>
+        <description>Bloated, congested and oh-so-slow.</description>
+    </signature>
+    <signature>
+        <no>383</no>
+        <name>Dark</name>
+        <model>Jomo Haka</model>
+        <description>Mushy, blobby and low resolution.</description>
+    </signature>
+    <signature>
+        <no>384</no>
+        <name>Dark</name>
+        <model>NuForce Primo 8</model>
+        <description>Tone is off, detailing is low, things sound wrong. Lies on a spectrum of "average" to "no".</description>
+    </signature>
+    <signature>
+        <no>385</no>
+        <name>V-shaped</name>
+        <model>Sennheiser IE80S</model>
+        <description>Warm, bassy, congested and lacking in dynamics. Oddly sharp yet lacking in sparkle</description>
+    </signature>
+    <signature>
+        <no>386</no>
+        <name>Dark</name>
+        <model>Sennheiser IE500 Pro</model>
+        <description>Heavy, undefined sound with bloated bass and little energy.</description>
+    </signature>
+    <signature>
+        <no>387</no>
+        <name>"Balanced"</name>
+        <model>Sound Linear Fitz 10 Flat</model>
+        <description>It sounds dead and boring. Nothing about it stands out at all and it doesn't even achieve the passing mark for technicalities.</description>
+    </signature>
+    <signature>
+        <no>388</no>
+        <name>V-shaped</name>
+        <model/>
+        <description>It's okay. It's a Chinese dynamic IEM, nothing special.</description>
+    </signature>
+    <signature>
+        <no>389</no>
+        <name>Warm</name>
+        <model>Unknown Custom UCD-3</model>
+        <description>Mushy, blunted transients with a warm yet strangely sibilant tuning.</description>
+    </signature>
+    <signature>
+        <no>390</no>
+        <name>Dark</name>
+        <model>AAW A2H-Pro V2</model>
+        <description>Good coherency but sub-par tuning and sluggishy slow.</description>
+    </signature>
+    <signature>
+        <no>391</no>
+        <name>Dark</name>
+        <model>Audio Technica ATH-CKS5TW</model>
+        <description>Muddy bass with virtually nonexistent treble.</description>
+    </signature>
+    <signature>
+        <no>392</no>
+        <name>Bright</name>
+        <model>Audio Technica ATH-CKR7TW</model>
+        <description>Shrill, sharp and screams in your face.</description>
+    </signature>
+    <signature>
+        <no>393</no>
+        <name>Dark</name>
+        <model>Effect Audio King Arthur</model>
+        <description>A joke, both in price and sound. Nobody's laughing.</description>
+    </signature>
+    <signature>
+        <no>394</no>
+        <name>Bassy</name>
+        <model>Kinera YH263</model>
+        <description>Almost nothing but bass. Zero semblance of any sort of balance.</description>
+    </signature>
+    <signature>
+        <no>395</no>
+        <name>V-shaped</name>
+        <model>KZ ZST</model>
+        <description>Decent bass. Odd timbre. Odd tuning.</description>
+    </signature>
+    <signature>
+        <no>396</no>
+        <name>Warm</name>
+        <model/>
+        <description>Dead as a doornail. Missing bits and pieces in its tuning.</description>
+    </signature>
+    <signature>
+        <no>397</no>
+        <name>Warm</name>
+        <model/>
+        <description>Refer to the above.</description>
+    </signature>
+    <signature>
+        <no>398</no>
+        <name>Bright</name>
+        <model>RHA CL750</model>
+        <description>Ear-piercing treble makes it hard to listen to.</description>
+    </signature>
+    <signature>
+        <no>399</no>
+        <name>Extreme Bass</name>
+        <model/>
+        <description>Lots and lots of bass. Slams you in the face with bass.</description>
+    </signature>
+    <signature>
+        <no>400</no>
+        <name>Bright</name>
+        <model>Seahf AWK-009</model>
+        <description>Phasing issues, weirdly incoherent and yet a strangely compelling listen.</description>
+    </signature>
+    <signature>
+        <no>401</no>
+        <name>Bright</name>
+        <model>Shozy x AAW Hibiki</model>
+        <description>Sharp, shrill tonality. Average everything else.</description>
+    </signature>
+    <signature>
+        <no>402</no>
+        <name>V-shaped</name>
+        <model>TFZ 1S</model>
+        <description>A little bloated at times and definitely congested.</description>
+    </signature>
+    <signature>
+        <no>403</no>
+        <name>Dark</name>
+        <model/>
+        <description>Dead, bloated, congested. Feels like I have to strain to hear even surface-level detailing.</description>
+    </signature>
+    <signature>
+        <no>404</no>
+        <name>"Balanced"</name>
+        <model>Campfire IO</model>
+        <description>Tonality and timbre is all sorts of wrong. Lacks the technicalities to redeem it.</description>
+    </signature>
+    <signature>
+        <no>405</no>
+        <name>Dark</name>
+        <model>Fender Thirteen 6</model>
+        <description>Instruments sound wrong. Everything is underwater. Help.</description>
+    </signature>
+    <signature>
+        <no>406</no>
+        <name>Bright</name>
+        <model>Fischer Omega Spark</model>
+        <description>Someone should harvest their drivers for tweeters since I hear nothing below the upper mids.</description>
+    </signature>
+    <signature>
+        <no>407</no>
+        <name>Dark</name>
+        <model>Geek Wold GK3</model>
+        <description>Incoherent, imaging is all over the place and sounds like a mess.</description>
+    </signature>
+    <signature>
+        <no>408</no>
+        <name>Mid-centric</name>
+        <model>Hifiman TWS600</model>
+        <description>Telephonic mess. The worst TWS IEM I have ever heard.</description>
+    </signature>
+    <signature>
+        <no>409</no>
+        <name>Dark</name>
+        <model>JH Audio Diana</model>
+        <description>Mushy transients and the detailing capability of free phone earbuds.</description>
+    </signature>
+    <signature>
+        <no>410</no>
+        <name>Extreme V-shape</name>
+        <model/>
+        <description>Completely off timbre, extremely recessed midrange and sharp, painful treble.</description>
+    </signature>
+    <signature>
+        <no>411</no>
+        <name>"Balanced"</name>
+        <model>oBravo Ra C-Cu</model>
+        <description>An indescribable affront to God and humanity both in sound and pricing.</description>
+    </signature>
+    <signature>
+        <no>412</no>
+        <name>Bright</name>
+        <model>RHA CL1</model>
+        <description>So much treble to the point where nothing sounds correct. Like raining metal balls on a tin roof.</description>
+    </signature>
+    <signature>
+        <no>413</no>
+        <name>V-shaped</name>
+        <model>Sendiy M1221</model>
+        <description>It literally sounds out of phase. It's an accomplishment in itself.</description>
+    </signature>
+    <signature>
+        <no>414</no>
+        <name>Bright neutral</name>
+        <model/>
+        <description>Odd timbre. Technical ability isn't even that great.</description>
+    </signature>
+    <signature>
+        <no>415</no>
+        <name>Bright neutral</name>
+        <model/>
+        <description>Sharp and shrill yet surprisingly dead. Like shoving blunted icepicks into your ears.</description>
+    </signature>
+    <signature>
+        <no>416</no>
+        <name>Warm</name>
+        <model/>
+        <description>It's a slight improvement over the 2MAX but not by much.</description>
+    </signature>
+    <signature>
+        <no>417</no>
+        <name>Dark</name>
+        <model>Shozy x AAW Pola</model>
+        <description>Dark, muffled, veiled, muddy, congested etc. etc. basically every permutation of similar descriptors.</description>
+    </signature>
+    <signature>
+        <no>418</no>
+        <name>Bright</name>
+        <model>Unique Melody 3DD-Ti</model>
+        <description>It's not the quantity of the treble, but the quality. Reserved only for the most esoteric of tastes.</description>
+    </signature>
+    <signature>
+        <no>419</no>
+        <name>Dark</name>
+        <model>VE Monk IE Smalls</model>
+        <description>Sounds exactly like what would happen if you shoved an earbud driver into an IEM housing.</description>
+    </signature>
+    <signature>
+        <no>420</no>
+        <name>Complete failure</name>
+        <model>Delta Air complimentary earphones</model>
+        <description>It's a telephone in IEM form. It is physically unable to play bass or treble.</description>
+    </signature>
+    <signature>
+        <no>421</no>
+        <name>Complete failure</name>
+        <model/>
+        <description>The horribleness of this can only be experienced in real life.</description>
+    </signature>
+    <signature>
+        <no>422</no>
+        <name>Dark</name>
+        <model>SIA complimentary earphones</model>
+        <description>Its full potential can only be unleashed by an Airbus A380.</description>
+    </signature>
+    <signature>
+        <no>423</no>
+        <name>Dark</name>
+        <model>VE Monk IE Biggie</model>
+        <description>Absolute mud and congestion. Could work as a subwoofer since it barely plays anything above 500Hz anyways.</description>
+    </signature>
+</signatures>

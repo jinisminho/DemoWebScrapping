@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           targetNamespace="http://xml.netbeans.org/schema/signatures"
+           xmlns = "http://xml.netbeans.org/schema/signatures"
+>
+    
+    <xs:element name="signatures" type="Signatures"/>
+    <xs:complexType name="Signatures">
+        <xs:sequence>
+            <xs:element name="iems" type="IEMS"/>
+            <xs:element name="headphones" type="Headphones"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="IEMS">
+        <xs:sequence>
+            <xs:element name="signature" type="Signature" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Headphones">
+        <xs:sequence>
+            <xs:element name="signature" type="Signature" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Signature">
+        <xs:sequence>
+            <xs:element name="id" type="xs:decimal"/>
+            <xs:element name="name" type="Name"/>
+            <xs:element name="model" type="Model"/>
+            <xs:element name="description" type="Description"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="Name">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="100"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Model">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="200"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Description">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="0"/>
+            <xs:maxLength value="500"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
