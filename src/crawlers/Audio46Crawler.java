@@ -147,6 +147,6 @@ public class Audio46Crawler {
 
     public void demo() {
 //        crawlProducts();
-//        processProductXml();
+        processProductXml();
     }
 }

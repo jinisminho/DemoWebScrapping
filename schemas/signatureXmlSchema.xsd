@@ -31,6 +31,7 @@
         <xs:sequence>
             <xs:element name="id" type="xs:decimal"/>
             <xs:element name="name" type="Name"/>
+            <xs:element name="price" type="Price"/>
             <xs:element name="model" type="Model"/>
             <xs:element name="description" type="Description"/>
         </xs:sequence>
@@ -40,6 +41,11 @@
         <xs:restriction base="xs:string">
             <xs:minLength value="1"/>
             <xs:maxLength value="100"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Price">
+        <xs:restriction base="xs:double">
+            <xs:minInclusive value="0"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="Model">

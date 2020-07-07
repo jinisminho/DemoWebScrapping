@@ -19,8 +19,7 @@ public class CrawlApplication {
         String input = "quit";
         System.out.println("========================");
         System.out.println("- crawl");
-        System.out.println("- insertHead");
-        System.out.println("- insertIem");
+        System.out.println("- insertProducts");
         System.out.println("Enter cmd: ");
         Scanner scanner = new Scanner(System.in);
         input = scanner.nextLine();
@@ -31,25 +30,17 @@ public class CrawlApplication {
         DbAccessor dbAccessor;
         String input = getInput();
         while (input.equalsIgnoreCase("crawl")
-                || input.equalsIgnoreCase("insertHead")
-                || input.equalsIgnoreCase("insertIem")) {
+                || input.equalsIgnoreCase("insertProducts")) {
             switch (input) {
                 case "crawl":
                     System.out.println("---- Crawl");
                     SignatureCrawler crawler = new SignatureCrawler();
                     crawler.crawl();
                     break;
-                case "insertHead":
+                case "insertProducts":
                     System.out.println("---- Insert headphones to Db");
                     dbAccessor = new DbAccessor();
-                    if (!dbAccessor.insertHeadphones()) {
-                        System.out.println("!!! ATTENTION !!!");
-                    }
-                    break;
-                case "insertIem":
-                    System.out.println("---- Insert headphones to Db");
-                    dbAccessor = new DbAccessor();
-                    if (!dbAccessor.insertIems()) {
+                    if (!dbAccessor.insertCompleteProducts()) {
                         System.out.println("!!! ATTENTION !!!");
                     }
                     break;

@@ -47,7 +47,7 @@ and open the template in the editor.
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="Price">
-        <xs:restriction base="xs:float">
+        <xs:restriction base="xs:double">
             <xs:minInclusive value="0"/>
         </xs:restriction>
     </xs:simpleType>

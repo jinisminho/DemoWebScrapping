@@ -38,7 +38,7 @@ public class Product {
 
     @XmlElement(required = true)
     protected String name;
-    protected float price;
+    protected double price;
     @XmlElement(required = true)
     protected String image;
 
@@ -70,7 +70,7 @@ public class Product {
      * Gets the value of the price property.
      * 
      */
-    public float getPrice() {
+    public double getPrice() {
         return price;
     }
 
@@ -78,7 +78,7 @@ public class Product {
      * Sets the value of the price property.
      * 
      */
-    public void setPrice(float value) {
+    public void setPrice(double value) {
         this.price = value;
     }
 

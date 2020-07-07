@@ -20,6 +20,7 @@ import javax.xml.bind.annotation.XmlType;
  *       &lt;sequence>
  *         &lt;element name="id" type="{http://www.w3.org/2001/XMLSchema}decimal"/>
  *         &lt;element name="name" type="{http://xml.netbeans.org/schema/signatures}Name"/>
+ *         &lt;element name="price" type="{http://xml.netbeans.org/schema/signatures}Price"/>
  *         &lt;element name="model" type="{http://xml.netbeans.org/schema/signatures}Model"/>
  *         &lt;element name="description" type="{http://xml.netbeans.org/schema/signatures}Description"/>
  *       &lt;/sequence>
@@ -34,6 +35,7 @@ import javax.xml.bind.annotation.XmlType;
 @XmlType(name = "Signature", propOrder = {
     "id",
     "name",
+    "price",
     "model",
     "description"
 })
@@ -43,6 +45,7 @@ public class Signature {
     protected BigDecimal id;
     @XmlElement(required = true)
     protected String name;
+    protected double price;
     @XmlElement(required = true)
     protected String model;
     @XmlElement(required = true)
@@ -94,6 +97,22 @@ public class Signature {
      */
     public void setName(String value) {
         this.name = value;
+    }
+
+    /**
+     * Gets the value of the price property.
+     * 
+     */
+    public double getPrice() {
+        return price;
+    }
+
+    /**
+     * Sets the value of the price property.
+     * 
+     */
+    public void setPrice(double value) {
+        this.price = value;
     }
 
     /**

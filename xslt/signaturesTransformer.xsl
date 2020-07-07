@@ -25,6 +25,9 @@
                         <name>
                             <xsl:value-of select="td[contains(@class, 'column-5')]" />
                         </name>
+                        <price>
+                            <xsl:value-of select="td[contains(@class, 'column-15')]" />
+                        </price>
                         <xsl:variable name="linkedModel" select="td[contains(@class, 'column-3')]/a"/>
                         <xsl:variable name="unlinkedModel" select="td[contains(@class, 'column-3')]" />
                         <xsl:choose>
@@ -57,6 +60,9 @@
                         <name>
                             <xsl:value-of select="td[contains(@class, 'column-5')]" />
                         </name>
+                        <price>
+                            <xsl:value-of select="td[contains(@class, 'column-15')]" />
+                        </price>
                         <xsl:variable name="linkedModel" select="td[contains(@class, 'column-3')]/a"/>
                         <xsl:variable name="unlinkedModel" select="td[contains(@class, 'column-3')]" />
                         <xsl:choose>

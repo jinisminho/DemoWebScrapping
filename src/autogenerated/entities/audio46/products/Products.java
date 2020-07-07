@@ -28,7 +28,6 @@ import javax.xml.bind.annotation.XmlType;
  * 
  * 
  */
-
 @XmlRootElement(name = "products")
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "Products", propOrder = {

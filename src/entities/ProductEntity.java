@@ -18,6 +18,7 @@ public class ProductEntity {
     private String signature;
     private int typeId;
     private int categoryId;
+    private String imgUrl;
 
     public ProductEntity() {
         this.name = "demo";
@@ -25,7 +26,16 @@ public class ProductEntity {
         this.description = "demo";
         this.signature = "demo";
         this.typeId = -1;
-        this.categoryId = -1;
+        this.categoryId = 7;
+        this.imgUrl = "";
+    }
+
+    public String getImgUrl() {
+        return imgUrl;
+    }
+
+    public void setImgUrl(String imgUrl) {
+        this.imgUrl = imgUrl;
     }
 
     public int getId() {
@@ -88,7 +98,5 @@ public class ProductEntity {
     public String toString() {
         return "id=" + id + ", name=" + name + ", price=" + price + ", description=" + description + ", signature=" + signature + ", typeId=" + typeId + ", categoryId=" + categoryId + "\n";
     }
-
- 
 
 }
