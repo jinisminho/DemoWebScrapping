@@ -135,7 +135,6 @@ public class DbAccessor {
 //        Check duplicate
         List<String> addedProducts = new ArrayList<>();
         boolean added = false;
-        ;
         int numUpdated = 0;
         int numAddedNew = 0;
 
@@ -145,12 +144,12 @@ public class DbAccessor {
             int matchedNew = -1;
             added = false;
             entity = new ProductEntity();
-            entity.setName(combinedSignatures.get(i).getModel());
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setSignature(combinedSignatures.get(i).getName());
-            entity.setPrice(combinedSignatures.get(i).getPrice());
+            entity.setName(listIemsSignature.get(i).getModel());
+            entity.setDescription(listIemsSignature.get(i).getDescription());
+            entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+            entity.setDescription(listIemsSignature.get(i).getDescription());
+            entity.setSignature(listIemsSignature.get(i).getName());
+            entity.setPrice(listIemsSignature.get(i).getPrice());
             entity.setImgUrl(ProductImgUrlEnums.EARPHONES_URL.getURL());
             entity.setTypeId(ProductTypeEnums.IEMS_INEARS.getTypeId());
 
@@ -176,9 +175,9 @@ public class DbAccessor {
             }
             if (matchedOld != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listIemsSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+                entity.setSignature(listIemsSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedOld).getName());
                 entity.setPrice(combinedProducts.get(matchedOld).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedOld).getImage());
@@ -190,9 +189,9 @@ public class DbAccessor {
             }
             if (matchedNew != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listIemsSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+                entity.setSignature(listIemsSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedNew).getName());
                 entity.setPrice(combinedProducts.get(matchedNew).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedNew).getImage());
@@ -214,12 +213,12 @@ public class DbAccessor {
             int matchedNew = -1;
             added = false;
             entity = new ProductEntity();
-            entity.setName(combinedSignatures.get(i).getModel());
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setSignature(combinedSignatures.get(i).getName());
-            entity.setPrice(combinedSignatures.get(i).getPrice());
+            entity.setName(listHeadphonesSignature.get(i).getModel());
+            entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+            entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+            entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+            entity.setSignature(listHeadphonesSignature.get(i).getName());
+            entity.setPrice(listHeadphonesSignature.get(i).getPrice());
             entity.setImgUrl(ProductImgUrlEnums.HEADPHONES_URL.getURL());
             entity.setTypeId(ProductTypeEnums.HEADPHONES.getTypeId());
 
@@ -245,9 +244,9 @@ public class DbAccessor {
             }
             if (matchedOld != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+                entity.setSignature(listHeadphonesSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedOld).getName());
                 entity.setPrice(combinedProducts.get(matchedOld).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedOld).getImage());
@@ -259,9 +258,9 @@ public class DbAccessor {
             }
             if (matchedNew != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+                entity.setSignature(listHeadphonesSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedNew).getName());
                 entity.setPrice(combinedProducts.get(matchedNew).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedNew).getImage());

@@ -84,9 +84,9 @@ public class TestMain {
 
     public static void main(String[] args) {
         getCombinedList();
-//        String s = "(Open box)";
-//        String s2 = "open box";
-//        System.out.println(s.toLowerCase().contains("open box"));
+        //        String s = "(Open box)";
+        //        String s2 = "open box";
+        //        System.out.println(s.toLowerCase().contains("open box"));
     }
 
     static private List<ProductEntity> getCombinedList() {
@@ -109,29 +109,23 @@ public class TestMain {
         combinedProducts.addAll(audio46Headphones);
         combinedProducts.addAll(audio46Earphones);
 //        Check duplicate
-        List<String> addedSignatures = new ArrayList<>();
         List<String> addedProducts = new ArrayList<>();
         boolean added = false;
-        ;
-//        item from products list that matches an item from signatures list
-        List<Integer> allMatchedProducts = new ArrayList<>();
-
         int numUpdated = 0;
         int numAddedNew = 0;
 
-        System.out.println("======================= Product Entity list");
         ProductEntity entity;
         for (int i = 0; i < listIemsSignature.size(); i++) {
             int matchedOld = -1;
             int matchedNew = -1;
             added = false;
             entity = new ProductEntity();
-            entity.setName(combinedSignatures.get(i).getModel());
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setSignature(combinedSignatures.get(i).getName());
-            entity.setPrice(combinedSignatures.get(i).getPrice());
+            entity.setName(listIemsSignature.get(i).getModel());
+            entity.setDescription(listIemsSignature.get(i).getDescription());
+            entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+            entity.setDescription(listIemsSignature.get(i).getDescription());
+            entity.setSignature(listIemsSignature.get(i).getName());
+            entity.setPrice(listIemsSignature.get(i).getPrice());
             entity.setImgUrl(ProductImgUrlEnums.EARPHONES_URL.getURL());
             entity.setTypeId(ProductTypeEnums.IEMS_INEARS.getTypeId());
 
@@ -145,7 +139,6 @@ public class TestMain {
                     }
                 }
                 if (matched) {
-//                    System.out.println("===============" + combinedProducts.get(j).getName());
                     if (combinedProducts.get(j).getName().toLowerCase().contains("open box")) {
                         matchedOld = j;
                     } else {
@@ -158,9 +151,9 @@ public class TestMain {
             }
             if (matchedOld != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listIemsSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+                entity.setSignature(listIemsSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedOld).getName());
                 entity.setPrice(combinedProducts.get(matchedOld).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedOld).getImage());
@@ -172,9 +165,9 @@ public class TestMain {
             }
             if (matchedNew != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listIemsSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listIemsSignature.get(i).getName()));
+                entity.setSignature(listIemsSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedNew).getName());
                 entity.setPrice(combinedProducts.get(matchedNew).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedNew).getImage());
@@ -196,12 +189,12 @@ public class TestMain {
             int matchedNew = -1;
             added = false;
             entity = new ProductEntity();
-            entity.setName(combinedSignatures.get(i).getModel());
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-            entity.setDescription(combinedSignatures.get(i).getDescription());
-            entity.setSignature(combinedSignatures.get(i).getName());
-            entity.setPrice(combinedSignatures.get(i).getPrice());
+            entity.setName(listHeadphonesSignature.get(i).getModel());
+            entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+            entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+            entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+            entity.setSignature(listHeadphonesSignature.get(i).getName());
+            entity.setPrice(listHeadphonesSignature.get(i).getPrice());
             entity.setImgUrl(ProductImgUrlEnums.HEADPHONES_URL.getURL());
             entity.setTypeId(ProductTypeEnums.HEADPHONES.getTypeId());
 
@@ -215,7 +208,6 @@ public class TestMain {
                     }
                 }
                 if (matched) {
-//                    System.out.println("===============" + combinedProducts.get(j).getName());
                     if (combinedProducts.get(j).getName().toLowerCase().contains("open box")) {
                         matchedOld = j;
                     } else {
@@ -228,9 +220,9 @@ public class TestMain {
             }
             if (matchedOld != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+                entity.setSignature(listHeadphonesSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedOld).getName());
                 entity.setPrice(combinedProducts.get(matchedOld).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedOld).getImage());
@@ -242,9 +234,9 @@ public class TestMain {
             }
             if (matchedNew != -1) {
                 entity = new ProductEntity();
-                entity.setDescription(combinedSignatures.get(i).getDescription());
-                entity.setCategoryId(categorizer.getCategoryOfSignature(combinedSignatures.get(i).getName()));
-                entity.setSignature(combinedSignatures.get(i).getName());
+                entity.setDescription(listHeadphonesSignature.get(i).getDescription());
+                entity.setCategoryId(categorizer.getCategoryOfSignature(listHeadphonesSignature.get(i).getName()));
+                entity.setSignature(listHeadphonesSignature.get(i).getName());
                 entity.setName(combinedProducts.get(matchedNew).getName());
                 entity.setPrice(combinedProducts.get(matchedNew).getPrice());
                 entity.setImgUrl(combinedProducts.get(matchedNew).getImage());
@@ -264,7 +256,7 @@ public class TestMain {
         for (Product audio46Headphone : audio46Headphones) {
             if (!addedProducts.contains(audio46Headphone.getName())) {
                 entity = new ProductEntity();
-                entity.setCategoryId(-1);
+                entity.setCategoryId(7);
                 entity.setDescription("N/A");
                 entity.setImgUrl(audio46Headphone.getImage());
                 entity.setName(audio46Headphone.getName());
@@ -279,7 +271,7 @@ public class TestMain {
         for (Product audio46Earphone : audio46Earphones) {
             if (!addedProducts.contains(audio46Earphone.getName())) {
                 entity = new ProductEntity();
-                entity.setCategoryId(-1);
+                entity.setCategoryId(7);
                 entity.setDescription("N/A");
                 entity.setImgUrl(audio46Earphone.getImage());
                 entity.setName(audio46Earphone.getName());
@@ -290,24 +282,9 @@ public class TestMain {
                 numAddedNew++;
             }
         }
-        int i = 1;
-        System.out.println("======================= FINAL LIST");
-        for (ProductEntity productEntity : finalList) {
-//            productEntity.getName().toLowerCase().contains(String.valueOf("E4000").toLowerCase())
-            if (productEntity.getName().equals("HIFIMAN - RE300h Earphone-Audiophile Earbud")) {
-                System.out.println((i) + ": Model: " + productEntity.getName());
-                System.out.println((i) + ": Category: " + productEntity.getCategoryId());
-                System.out.println((i) + ": Description: " + productEntity.getDescription());
-                System.out.println((i) + ": IMG: " + productEntity.getImgUrl());
-                System.out.println((i) + ": Price: " + productEntity.getPrice());
-                System.out.println((i++) + ": Type: " + productEntity.getTypeId());
-                System.out.println("=================================");
 
-            }
-        }
-        System.out.println("=== Updated: " + numUpdated);
-        System.out.println("=== Added: " + numAddedNew);
-        System.out.println(finalList.size());
+        System.out.println("Updated: " + numUpdated);
+        System.out.println("Added: " + numAddedNew);
 
         return finalList;
     }
